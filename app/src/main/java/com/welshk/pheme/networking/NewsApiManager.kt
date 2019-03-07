@@ -7,7 +7,6 @@ import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.Retrofit
 
 object NewsApiManager {
-    //TODO KEVIN, don't commit this key to Github
     private val API_KEY = BuildConfig.API_KEY
 
     private val NEWS_API_BASE_URL = "https://newsapi.org/"
