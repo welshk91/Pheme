@@ -31,6 +31,8 @@ FAQ
         * `content` : `The unformatted content of the article, where available. This is truncated to 260 chars for Developer plan users.`
 * The app no longer will retrieve new articles.
     * The free Developer plan also limits how many times you can ping the server (1000 requests/day).
+* I can't search for articles older than a month. Why?
+    * The free Developer plan limits how far back the app can search for articles. 
 
 License
 -------
