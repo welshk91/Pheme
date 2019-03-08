@@ -13,11 +13,8 @@ interface NewsApiService {
     //https://newsapi.org/v2/everything?sources=ars-technica&apiKey=a6be2141d63e447e9a0b56c42df8417a
 
     @GET
-    fun getTopHeadlines(@Url url: String, @Query("apiKey") apikey: String): Call<NewsResponse>
+    fun getTopHeadlines(@Url url: String, @Query("apiKey") apikey: String,  @Query("q") query : String?, @Query("sources") sources: String?, @Query("page") page: String?): Call<NewsResponse>
 
     @GET
-    fun getTopHeadlines(@Url url: String, @Query("apiKey") apikey: String, @Query("country") country: String): Call<NewsResponse>
-
-    @GET
-    fun getTopHeadlinesFromSource(@Url url: String, @Query("apiKey") apikey: String, @Query("sources") sources: String): Call<NewsResponse>
+    fun getTopHeadlines(@Url url: String, @Query("apiKey") apikey: String,  @Query("q") query : String?, @Query("country") country: String?, @Query("category") category: String?, @Query("page") page: String?): Call<NewsResponse>
 }

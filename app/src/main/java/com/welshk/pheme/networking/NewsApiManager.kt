@@ -26,11 +26,11 @@ object NewsApiManager {
         return retrofit.create(NewsApiService::class.java)
     }
 
-    fun getTopHeadlines() : Call<NewsResponse> {
-        return newsApiService.getTopHeadlines(TOPHEADLINES_BASE_URL, API_KEY)
+    fun getTopHeadlines(query: String?, sources: String?, page: String?): Call<NewsResponse> {
+        return newsApiService.getTopHeadlines(TOPHEADLINES_BASE_URL, API_KEY, query, sources, page)
     }
 
-    fun getTopHeadlines(country : String) : Call<NewsResponse>{
-        return newsApiService.getTopHeadlines(TOPHEADLINES_BASE_URL, API_KEY, country)
+    fun getTopHeadlines(query: String?, country: String?, category: String?, page: String?): Call<NewsResponse> {
+        return newsApiService.getTopHeadlines(TOPHEADLINES_BASE_URL, API_KEY, query, country, category, page)
     }
 }
