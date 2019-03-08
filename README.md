@@ -26,6 +26,11 @@ FAQ
         * Create a `news_api.properties` file in the root directory (the directory with `local.properties`)
         * Add the News API Key to said file (You can get a key by creating an account [here](https://newsapi.org/))
             * Example: `apiKey="a6be2141d9a7bb47e9a0b56c24af8417a"`
+* The article content seems to get cut off; What gives?
+    * This is a limitation of the free Developer plan for access to the News API
+        * `content` : `The unformatted content of the article, where available. This is truncated to 260 chars for Developer plan users.`
+* The app no longer will retrieve new articles.
+    * The free Developer plan also limits how many times you can ping the server (1000 requests/day).
 
 License
 -------
