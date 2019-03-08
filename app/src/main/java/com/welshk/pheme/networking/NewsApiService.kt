@@ -13,8 +13,11 @@ interface NewsApiService {
     //https://newsapi.org/v2/everything?sources=ars-technica&apiKey=a6be2141d63e447e9a0b56c42df8417a
 
     @GET
-    fun getTopHeadlines(@Url url: String, @Query("apiKey") apikey: String,  @Query("q") query : String?, @Query("sources") sources: String?, @Query("page") page: String?): Call<NewsResponse>
+    fun getTopHeadlines(@Url url: String, @Query("apiKey") apikey: String,  @Query("q") query : String?, @Query("sources") sources: String?, @Query("pageSize") pageSize: String?, @Query("page") page: String?): Call<NewsResponse>
 
     @GET
-    fun getTopHeadlines(@Url url: String, @Query("apiKey") apikey: String,  @Query("q") query : String?, @Query("country") country: String?, @Query("category") category: String?, @Query("page") page: String?): Call<NewsResponse>
+    fun getTopHeadlines(@Url url: String, @Query("apiKey") apikey: String,  @Query("q") query : String?, @Query("country") country: String?, @Query("category") category: String?, @Query("pageSize") pageSize: String?, @Query("page") page: String?): Call<NewsResponse>
+
+    @GET
+    fun getEverything(@Url url: String, @Query("apiKey") apikey: String,  @Query("q") query : String?, @Query("sources") sources: String?, @Query("domains") domains: String?, @Query("excludeDomains") excludedDomains: String?, @Query("from") from: String?, @Query("to") to: String?, @Query("language") language: String?, @Query("sortBy") sortBy: String?, @Query("pageSize") pageSize: String?, @Query("page") page: String?): Call<NewsResponse>
 }

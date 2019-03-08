@@ -7,7 +7,7 @@ import org.junit.Assert
 import retrofit2.Response
 
 
-class NetworkTest {
+class TopHeadlinesNetworkTest {
 
     @Before
     fun setup() {

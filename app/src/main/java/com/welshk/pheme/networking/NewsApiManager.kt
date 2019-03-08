@@ -13,6 +13,8 @@ object NewsApiManager {
     private val TOPHEADLINES_BASE_URL = "https://newsapi.org/v2/top-headlines"
     private val EVERYTHING_BASE_URL = "https://newsapi.org/v2/everything"
 
+    private val PAGE_SIZE = "25"
+
     private val newsApiService by lazy {
         getRetroFitService()
     }
@@ -27,10 +29,14 @@ object NewsApiManager {
     }
 
     fun getTopHeadlines(query: String?, sources: String?, page: String?): Call<NewsResponse> {
-        return newsApiService.getTopHeadlines(TOPHEADLINES_BASE_URL, API_KEY, query, sources, page)
+        return newsApiService.getTopHeadlines(TOPHEADLINES_BASE_URL, API_KEY, query, sources, PAGE_SIZE, page)
     }
 
     fun getTopHeadlines(query: String?, country: String?, category: String?, page: String?): Call<NewsResponse> {
-        return newsApiService.getTopHeadlines(TOPHEADLINES_BASE_URL, API_KEY, query, country, category, page)
+        return newsApiService.getTopHeadlines(TOPHEADLINES_BASE_URL, API_KEY, query, country, category, PAGE_SIZE, page)
+    }
+
+    fun getEverything(query: String?, sources: String?, domains: String?, excludedDomains: String?, from : String?, to : String?, langauge : String?, sortBy : String?, page: String?): Call<NewsResponse> {
+        return newsApiService.getEverything(EVERYTHING_BASE_URL, API_KEY, query, sources, domains, excludedDomains, from, to, langauge, sortBy, PAGE_SIZE, page)
     }
 }
