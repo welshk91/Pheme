@@ -3,5 +3,6 @@
     <dimen name="dashboardArticleMarginTopBottom">18dp</dimen>
     <dimen name="dashboardArticleMarginSide">8dp</dimen>
 
-    <dimen name="dashboardArticleTitle">28sp</dimen>
+    <dimen name="dashboardArticleTitle">22sp</dimen>
+    <dimen name="dashboardArticleAuthor">14sp</dimen>
 </resources>

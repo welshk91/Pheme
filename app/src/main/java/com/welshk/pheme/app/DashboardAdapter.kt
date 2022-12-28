@@ -24,12 +24,16 @@ class DashboardAdapter(
     }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        holder.title.text = articles!![position].title
-        holder.setOnItemClickedListener(articles[position], listener)
+        articles?.get(position)?.let {
+            holder.title.text = it.title
+            holder.author.text = it.author
+            holder.setOnItemClickedListener(it, listener)
+        }
     }
 
     class ViewHolder(context: Context, view: View) : RecyclerView.ViewHolder(view) {
         var title: TextView = view.findViewById(R.id.title)
+        var author: TextView = view.findViewById(R.id.author)
 
         internal fun setOnItemClickedListener(
             article: Article,
