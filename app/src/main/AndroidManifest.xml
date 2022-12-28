@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
         package="com.welshk.pheme">
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -12,7 +13,8 @@
             android:supportsRtl="true"
             android:dataExtractionRules="@xml/data_extraction_rules"
             android:fullBackupContent="@xml/backup_rules"
-            android:theme="@style/AppTheme">
+            android:theme="@style/AppTheme"
+            tools:targetApi="33">
 
         <activity
                 android:name=".app.MainActivity"
