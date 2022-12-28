@@ -3,4 +3,19 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="app_icon_background">#D4F6FF</color>
+    <color name="progressbar">@color/app_icon_background</color>
+
+    <color name="gradient_start">#00000000</color>
+    <color name="gradient_start_middle">#80000000</color>
+    <color name="gradient_middle">#BF000000</color>
+    <color name="gradient_middle_end">#E6000000</color>
+    <color name="gradient_end">#000000</color>
+
+    <color name="radial_gradient_start">#000000</color>
+    <color name="radial_gradient_start_middle">#CC000000</color>
+    <color name="radial_gradient_middle">#99000000</color>
+    <color name="radial_gradient_middle_end">#33000000</color>
+    <color name="radial_gradient_end">#00000000</color>
 </resources>

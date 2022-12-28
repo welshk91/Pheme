@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dashboardArticleMarginTopBottom">18dp</dimen>
+    <dimen name="dashboardArticleMarginSide">8dp</dimen>
+
+    <dimen name="dashboardArticleTitle">28sp</dimen>
+</resources>

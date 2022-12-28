@@ -9,6 +9,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import com.welshk.pheme.R
 import com.welshk.pheme.databinding.FragmentDashboardBinding
+import com.welshk.pheme.views.ArticleItemDecoration
 import dagger.hilt.android.AndroidEntryPoint
 
 
@@ -21,6 +22,17 @@ class DashboardFragment : Fragment() {
         super.onCreate(savedInstanceState)
         viewModel.news.observe(this) { news ->
             context?.let {
+                binding.progressbar.visibility = View.GONE
+                binding.newsArticles.addItemDecoration(
+                    ArticleItemDecoration(
+                        marginTopBottom = resources.getDimensionPixelSize(
+                            R.dimen.dashboardArticleMarginTopBottom
+                        ),
+                        marginSide = resources.getDimensionPixelSize(
+                            R.dimen.dashboardArticleMarginSide
+                        )
+                    )
+                )
                 binding.newsArticles.adapter = DashboardAdapter(requireContext(), news.articles)
             }
         }
