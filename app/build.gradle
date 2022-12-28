@@ -26,8 +26,31 @@ android {
     }
 
     buildTypes {
+        def STRING = "String"
+        def BOOLEAN = "boolean"
+        def TRUE = "true"
+        def FALSE = "false"
+
+        def USE_MOCK_DATA = "USE_MOCK_DATA"
+        def MOCK_ARTICLE = "MOCK_ARTICLE"
+        def MOCK_ARTICLE_FILE = "\"everything_arstechnica.json\""
+
         release {
+            buildConfigField BOOLEAN, USE_MOCK_DATA, FALSE
+            buildConfigField STRING, MOCK_ARTICLE, MOCK_ARTICLE_FILE
+            minifyEnabled true
+            shrinkResources true
+            zipAlignEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+
+        debug {
+            buildConfigField BOOLEAN, USE_MOCK_DATA, TRUE
+            buildConfigField STRING, MOCK_ARTICLE, MOCK_ARTICLE_FILE
+            debuggable true
             minifyEnabled false
+            shrinkResources false
+            zipAlignEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }

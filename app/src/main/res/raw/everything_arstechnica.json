@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 329,
+  "articles": [
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jennifer Ouellette",
+      "title": "These scientists figured out how to make tasty popcorn with infrared cooking",
+      "description": "These scientists figured out how to make tasty popcorn with infrared cookingarstechnica.com",
+      "url": "https://arstechnica.com/science/2022/12/these-scientists-figured-out-how-to-make-tasty-popcorn-with-infrared-cooking/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/popcornTOP-760x380.jpg",
+      "publishedAt": "2022-12-27T22:25:44Z",
+      "content": "Enlarge/ In the future, our kitchen gadgets might include an infrared popcorn popper.\r\n5 with 0 posters participating\r\nThere's rarely time to write about every cool science-y story that comes our way… [+4337 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "New GeForce RTX 3050 variant offers the same performance but lower power use",
+      "description": "GA107 die has just the right number of CUDA cores for an RTX 3050.",
+      "url": "https://arstechnica.com/gadgets/2022/12/new-geforce-rtx-3050-variant-offers-the-same-performance-but-lower-power-use/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/rtx-3050-msi-760x380.jpeg",
+      "publishedAt": "2022-12-27T21:03:52Z",
+      "content": "8 with 0 posters participating\r\nNvidia's GeForce RTX 3050 is no one's idea of a powerhouse, but it's a decent 1080p GPU and it's still the cheapest way to buy into Nvidia's RTX 3000-series ecosystem … [+2373 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Eric Bangeman",
+      "title": "No more TikTok on House of Representatives’ smartphones",
+      "description": "Security issues make the app \"high risk,\" according to House cybersecurity office.",
+      "url": "https://arstechnica.com/tech-policy/2022/12/no-more-tiktok-on-house-of-representatives-smartphones/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1200715713-760x380.jpg",
+      "publishedAt": "2022-12-27T20:54:06Z",
+      "content": "4 with 0 posters participating\r\nTikTok will no longer be allowed on any device managed by the US House of Representatives. On Tuesday, the House's Chief Administrative Office announced the ban of the… [+1790 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "Musk contradicts Twitter safety chief, disavows statement as “fake news”",
+      "description": "It's still unclear which Twitter exec was telling the truth.",
+      "url": "https://arstechnica.com/tech-policy/2022/12/musk-implies-twitter-exec-falsely-reported-removal-of-suicide-prevention-tool/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1243763548-760x380.jpg",
+      "publishedAt": "2022-12-27T20:44:31Z",
+      "content": "40 with 0 posters participating\r\nEver since The Verge reported that Twitter shut down its communications office, its been harder to confirm information about the company, which seems to be the way th… [+4544 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "Leaker posts an early, canceled 2D version of the infamous Duke Nukem Forever",
+      "description": "The game's long, convoluted history gets longer and more convoluted.",
+      "url": "https://arstechnica.com/gaming/2022/12/leaker-posts-an-early-canceled-2d-version-of-the-infamous-duke-nukem-forever/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/DUKE8-640x380.jpg",
+      "publishedAt": "2022-12-27T18:30:12Z",
+      "content": "0 with 0 posters participating\r\nDuke Nukem Forever is infamous among PC gamers of a certain age for its long and tortured development cycle. Fifteen years passed between the release of Duke Nukem 3D … [+2667 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "Military device with biometric database of 2K people sold on eBay for $68",
+      "description": "Researchers say DOD ignored attempts to flag the leak impacting 2,632 people.",
+      "url": "https://arstechnica.com/tech-policy/2022/12/military-device-with-biometric-database-of-2k-people-sold-on-ebay-for-68/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/biometric-760x380.jpg",
+      "publishedAt": "2022-12-27T17:49:43Z",
+      "content": "Enlarge/ An American ISAF solider from team Apache of Task Force Geronimo, 4th Platoon Delaware of the United States Army, collects biometric information from an Afghan villager in the village of Man… [+3285 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "Microsoft is testing out tabs for the Windows 11 version of Notepad",
+      "description": "Windows 1.0-era app picks up a hot new Windows XP-era feature.",
+      "url": "https://arstechnica.com/gadgets/2022/12/microsoft-is-testing-out-tabs-for-the-windows-11-version-of-notepad/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/notepad-tabs-760x380.png",
+      "publishedAt": "2022-12-27T16:29:40Z",
+      "content": "Enlarge/ Notepad, now with tabs.\r\n15 with 0 posters participating\r\nNotepad is one of the very oldest Windows apps, and up until Windows 11 came out, it was one of the least-changed. It remains a bare… [+1333 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ars Contributors",
+      "title": "Is it time for GDPR 2.0?",
+      "description": "EU rules preserve some privacy but can be better.",
+      "url": "https://arstechnica.com/tech-policy/2022/12/is-it-time-for-gdpr-2-0/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/03/privacy-760x380.jpg",
+      "publishedAt": "2022-12-27T15:12:58Z",
+      "content": "Enlarge/ Can the GDPR's privacy protections be improved?\r\n9 with 0 posters participating\r\nNick Dedeke is a professor in the Supply Chain and Information Management (SCIM) Group at Northeastern Univer… [+3975 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "2022 in GPUs: The shortage ends, but higher prices seem here to stay",
+      "description": "Intel Arc joins the fray, and Nvidia charges big money for big performance.",
+      "url": "https://arstechnica.com/gaming/2022/12/2022-in-gpus-the-shortage-ends-but-higher-prices-seem-here-to-stay/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/IMG_0727-760x380.jpeg",
+      "publishedAt": "2022-12-27T14:25:22Z",
+      "content": "Enlarge/ From left to right and largest to smallest: GeForce RTX 4080 (which is the same physical size as the RTX 4090), Radeon RX 7900 XTX, and Radeon RX 7900 XT.\r\n2 with 0 posters participating\r\nIn… [+5357 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "Twitter sells blue checks, Tumblr allows nudes: 2022’s biggest Big-Tech U-turns - Ars Technica",
+      "description": "Twitter sells blue checks, Tumblr allows nudes: 2022’s biggest Big-Tech U-turns  Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2022/12/twitter-sells-blue-checks-tumblr-allows-nudes-2022s-biggest-big-tech-u-turns/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/verified-noods-760x380.jpg",
+      "publishedAt": "2022-12-27T12:15:38Z",
+      "content": "1 with 0 posters participating\r\nDuring a year that seemingly shook Twitter up for goodadding an edit button and demoting legacy verified users by selling off blue checksits easy to overlook how many … [+3136 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jennifer Ouellette",
+      "title": "Let it snow: Scientists make metallic snowflakes out of nanoparticles",
+      "description": "Different metals produce differently shaped crystals that self-assemble in liquid gallium",
+      "url": "https://arstechnica.com/science/2022/12/let-it-snow-scientists-make-metallic-snowflakes-out-of-nanoparticles/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/flake1CROP-760x380.jpg",
+      "publishedAt": "2022-12-26T19:00:32Z",
+      "content": "Enlarge/ SEM image of a nanoscale snowflake self-assembled from zinc dissolved in a liquid gallium solvent.\r\n0 with 0 posters participating\r\nThere's rarely time to write about every cool science-y st… [+6778 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "“Please slow down”—The 7 biggest AI stories of 2022",
+      "description": "Highlights from a year when generative AI went mainstream.",
+      "url": "https://arstechnica.com/information-technology/2022/12/please-slow-down-the-7-biggest-ai-stories-of-2022/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ars_queen_of_the_universe_hero_1-760x380.jpg",
+      "publishedAt": "2022-12-26T13:00:11Z",
+      "content": "Enlarge/ AI image synthesis advances in 2022 have made images like this one possible, which was created using Stable Diffusion, enhanced with GFPGAN, expanded with DALL-E, and then manually composite… [+4906 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "Video games in 2022: Massive mergers and peculiar portables",
+      "description": "Video games in 2022: Massive mergers and peculiar portablesarstechnica.com",
+      "url": "https://arstechnica.com/gaming/2022/12/video-games-in-2022-massive-mergers-and-peculiar-portables/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ars-gaming-roundup-2022-760x380.jpg",
+      "publishedAt": "2022-12-26T12:08:13Z",
+      "content": "2 with 0 posters participating\r\nBefore we get on to the list, don't miss this year's Ars Technica Charity Drive sweepstakes. You can win part of nearly $2,000 in prizes, including limited-edition gam… [+7222 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jennifer Ouellette",
+      "title": "J. Robert Oppenheimer cleared of being suspected Soviet spy after 68 years",
+      "description": "J. Robert Oppenheimer cleared of being suspected Soviet spy after 68 yearsarstechnica.com",
+      "url": "https://arstechnica.com/science/2022/12/j-robert-oppenheimer-cleared-of-being-suspected-soviet-spy-after-68-years/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/oppie1CROP-760x380.jpg",
+      "publishedAt": "2022-12-25T21:26:16Z",
+      "content": "Enlarge/ A young J. Robert Oppenheimer in April 1945. He led the Manhattan Project during World War II to develop the first atomic bomb.\r\n0 with 0 posters participating\r\nThere's rarely time to write … [+11305 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jennifer Ouellette",
+      "title": "Danish physicists give the gift of world’s smallest Christmas record—in stereo",
+      "description": "\"Nanofrazor\" cuts tiny single with first 25 seconds of “Rocking Around the Christmas Tree”",
+      "url": "https://arstechnica.com/science/2022/12/danish-physicists-give-the-gift-of-worlds-smallest-christmas-record-in-stereo/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/tinyvinyl-760x380.jpg",
+      "publishedAt": "2022-12-24T21:48:07Z",
+      "content": "2 with 0 posters participating\r\nThe first 25 seconds of a classic Christmas song was inscribed into polymer film using the Nanofrazor 3D lithography system.\r\nPhysicists at the Technical University of… [+3194 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Eric Bangeman",
+      "title": "The 20 most-read stories on Ars Technica in 2022",
+      "description": "Looking back on 2022's top topics, including AI, Alexa, James Webb, and more.",
+      "url": "https://arstechnica.com/staff/2022/12/the-20-most-read-stories-on-ars-technica-in-2022/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ars-top-stories-2022-760x380.jpg",
+      "publishedAt": "2022-12-24T12:00:34Z",
+      "content": "17 with 0 posters participating\r\nWhen 2022 dawned, there were a few things we knew we would be writing about: The global pandemic, whatever cool things Apple and Google did, rocket launches, and cool… [+5636 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Eric Bangeman",
+      "title": "Meta to pay $725 million to settle Cambridge Analytica lawsuit",
+      "description": "Data harvested by Cambridge Analytica was used for political campaigns.",
+      "url": "https://arstechnica.com/information-technology/2022/12/meta-to-pay-725-million-to-settle-cambridge-analytica-lawsuit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/fb-cambridge-760x380.jpg",
+      "publishedAt": "2022-12-23T15:50:02Z",
+      "content": "Enlarge/ A laptop showing the Facebook logo is held alongside a Cambridge Analytica sign at the entrance to the building housing the offices of Cambridge Analytica, in central London on March 21, 201… [+2462 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Corey Gaskin",
+      "title": "A very special Dealmaster: Last-minute deals you can still grab",
+      "description": "Dealmaster has discounts on some of our favorite fitness trackers, 4K TVs, and smart home devices.",
+      "url": "https://arstechnica.com/staff/2022/12/a-very-special-dealmaster-last-minute-deals-you-can-still-grab/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/dm12-760x380.jpg",
+      "publishedAt": "2022-12-23T13:00:15Z",
+      "content": "2 with 0 posters participating\r\nWe're entering the last week of the year and, as you might've guessed, there's still a fair amount of last-minute gifts to grab at some of the best prices you'll find … [+11014 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "Google vs. Amazon: The smart display showdown",
+      "description": "Both companies' smart displays often feel pretty dumb.",
+      "url": "https://arstechnica.com/gadgets/2022/12/google-vs-amazon-the-smart-display-showdown/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/3-1-760x380.jpg",
+      "publishedAt": "2022-12-23T12:30:46Z",
+      "content": "Enlarge/ Other than Amazon's rotating base, the two main product lines look pretty similar. \r\n0 with 0 posters participating\r\nGoogle and Amazon are basically the only game in town if you're looking f… [+3783 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "LastPass says hackers have obtained vault data and a wealth of customer info",
+      "description": "Password manager says breach it disclosed in August was much worse than thought.",
+      "url": "https://arstechnica.com/information-technology/2022/12/lastpass-says-hackers-have-obtained-vault-data-and-a-wealth-of-customer-info/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/password-change-760x380.jpg",
+      "publishedAt": "2022-12-22T22:43:39Z",
+      "content": "6 with 0 posters participating\r\nLastPass, one of the leading password managers, said that hackers obtained a wealth of personal information belonging to its customers as well as encrypted and cryptog… [+5223 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "With voice assistants in trouble, Home Assistant starts a local alternative",
+      "description": "With Big Tech reconsidering voice profitability, Home Assistant enters the fray.",
+      "url": "https://arstechnica.com/gadgets/2022/12/with-voice-assistants-in-trouble-home-assistant-starts-a-local-alternative/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/hero-760x380.png",
+      "publishedAt": "2022-12-22T22:29:20Z",
+      "content": "Enlarge/ Home Assistant running on a Google Nest Hub, via a wild Chromecast hack. Native hardware like this would be nice. \r\n3 with 0 posters participating\r\nAre cloud-based voice assistants doomed? T… [+5083 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "TikTok cops to running “covert surveillance campaign” on Western journalists",
+      "description": "Fired employees “misused their authority to obtain access to TikTok user data.”",
+      "url": "https://arstechnica.com/tech-policy/2022/12/tiktok-fires-4-employees-who-used-internal-data-to-spy-on-journalists/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1245156828-760x380.jpg",
+      "publishedAt": "2022-12-22T21:52:55Z",
+      "content": "37 with 0 posters participating\r\nFollowing an internal investigation, TikTok owner ByteDance today confirmed reports from this fall that claimed some of its employees used the popular app to track mu… [+2644 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "John Timmer",
+      "title": "ISS partners modeling Soyuz heat flow to decide if it’s safe to use",
+      "description": "In the wake of a Soyuz coolant loss, NASA and Roscosmos still exploring options.",
+      "url": "https://arstechnica.com/science/2022/12/iss-partners-modeling-soyuz-heat-flow-to-decide-if-its-safe-to-use/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/image-9-760x380.jpeg",
+      "publishedAt": "2022-12-22T19:38:46Z",
+      "content": "Enlarge/ A Soyuz spacecraft docked at the ISS.\r\n11 with 0 posters participating\r\nToday, NASA held a press briefing to describe the situation on the International Space Station (ISS) in the wake of a … [+3625 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "Blu-ray player gathering dust? Turn it into a laser-scanning microscope",
+      "description": "Blu-ray player gathering dust? Turn it into a laser-scanning microscopearstechnica.com",
+      "url": "https://arstechnica.com/gadgets/2022/12/blu-ray-player-gathering-dust-turn-it-into-a-laser-scanning-microscope/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-875114850-760x380.jpg",
+      "publishedAt": "2022-12-22T19:02:35Z",
+      "content": "16 with 0 posters participating\r\nBlu-rays never quite managed to usurp DVDs entirely. Recent estimates, based on data gathered by Nielsen VideoScan and MediaPlayNews, suggest that as of Q2 2022, DVDs… [+3456 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "AMD acknowledges high power use in RX 7900 GPUs, plans driver fixes",
+      "description": "Video playback, high-refresh screens, and multi-monitor setups can cause issues.",
+      "url": "https://arstechnica.com/gadgets/2022/12/amd-acknowledges-high-power-use-in-rx-7900-gpus-plans-driver-fixes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/IMG_0780-760x380.jpeg",
+      "publishedAt": "2022-12-22T18:34:52Z",
+      "content": "Enlarge/ AMD's Radeon RX 7900 XTX (rear) and 7900 XT (front).\r\n1 with 0 posters participating\r\nAMD's Radeon RX 7900 XTX and 7900 XT GPUs are still fresh, and as with most products based on new archit… [+1749 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Feds charge men with conspiring to hack taxi dispatch system at JFK Airport",
+      "description": "Defendants allegedly conspired with Russians, drew as many as 1,000 daily trips.",
+      "url": "https://arstechnica.com/information-technology/2022/12/feds-charge-men-with-conspiring-to-hack-taxi-dispatch-system-at-jfk-airport/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/airport-taxis-760x380.jpg",
+      "publishedAt": "2022-12-22T18:04:07Z",
+      "content": "0 with 0 posters participating\r\nTwo men have been charged with participating in a scheme that raked in big money by using a compromised dispatch system at New Yorks John F. Kennedy International Airp… [+2011 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "Leaked details show how Biden could save TikTok from being blocked in the US",
+      "description": "A former Secret Service agent recommended to oversee TikTok's US division.",
+      "url": "https://arstechnica.com/tech-policy/2022/12/leaked-details-show-how-biden-could-save-tiktok-from-being-blocked-in-the-us/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1450779959-760x380.jpg",
+      "publishedAt": "2022-12-22T17:46:42Z",
+      "content": "0 with 0 posters participating\r\nChina-owned TikToks been living rent-free in many American lawmakers minds all year. Some lawmakerswho have been monitoring US tensions with China and coping with grow… [+4697 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jonathan M. Gitlin",
+      "title": "Eight-car Thanksgiving pileup blamed on Tesla “Full Self-Driving” software",
+      "description": "California Highway Patrol say only Tesla knows if the system was active.",
+      "url": "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/tesla-warning-760x380.jpg",
+      "publishedAt": "2022-12-22T16:39:42Z",
+      "content": "Enlarge/ Tesla's camera-only approach to driver assistance keeps landing it in trouble.\r\n66 with 0 posters participating\r\nAn eight-car collision on Thanksgiving Day (Nov. 24) is now being blamed on T… [+2149 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jim Resnick",
+      "title": "Here’s why electric vehicles need EV-specific tires",
+      "description": "The differences between ICE vehicles and EVs go all the way down to the tarmac.",
+      "url": "https://arstechnica.com/cars/2022/12/heres-why-electric-vehicles-need-ev-specific-tires/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/ev-tires-green-760x380.jpg",
+      "publishedAt": "2022-12-22T11:45:38Z",
+      "content": "12 with 0 posters participating\r\nOne of the biggest promises of electric vehicles is that they provide relative freedom from constant car maintenance. Gone are oil and filter changes, spark plugs, tu… [+2979 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jennifer Ouellette",
+      "title": "Adopting a silly walk like Monty Python’s Mr. Teabag burns more calories",
+      "description": "Adopting a silly walk like Monty Python’s Mr. Teabag burns more caloriesarstechnica.com",
+      "url": "https://arstechnica.com/science/2022/12/adopting-a-silly-walk-like-monty-pythons-mr-teabag-burns-more-calories/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/03/python2-760x380.jpg",
+      "publishedAt": "2022-12-21T23:36:16Z",
+      "content": "18 with 0 posters participating\r\nWalking like John Cleese's character, Mr. Teabag, in Monty Python's famous \"Ministry of Silly Walks\" skit requires considerably more energy expenditure than a normal … [+5823 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Okta says source code for Workforce Identity Cloud service was copied",
+      "description": "Code stored on GitHub was copied after threat actor gained unauthorized access.",
+      "url": "https://arstechnica.com/information-technology/2022/12/okta-says-source-code-for-workforce-identity-cloud-service-was-copied/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/source-code-760x380.jpg",
+      "publishedAt": "2022-12-21T22:50:53Z",
+      "content": "3 with 0 posters participating\r\nSingle sign-on provider Okta said on Wednesday that software code for its Okta Workforce Identity Cloud service was copied after intruders gained access to the company… [+2868 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "John Timmer",
+      "title": "Enigmatic canal-filled ruins may have been above water when built",
+      "description": "Nan Madol, a strange site in the Pacific, may be on an island that's sinking.",
+      "url": "https://arstechnica.com/science/2022/12/enigmatic-canal-filled-ruins-may-have-been-above-water-when-built/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/image-8-760x380.jpeg",
+      "publishedAt": "2022-12-21T19:35:21Z",
+      "content": "Enlarge/ The distinctive ruins at Nan Madol.\r\n2 with 0 posters participating\r\nEven by the standards of enigmatic ancient ruins, Nan Madol is strange. Constructed primarily of \"logs\" made of volcanic … [+5054 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "Lenovo ThinkPad X1 Extreme Gen 5 review: Fast, expensive, toasty powerhouse",
+      "description": "Equal parts mobile workstation and grown-up gaming laptop.",
+      "url": "https://arstechnica.com/gadgets/2022/12/lenovo-thinkpad-x1-extreme-gen-5-review-fast-expensive-toasty-powerhouse/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/IMG_0790-760x380.jpeg",
+      "publishedAt": "2022-12-21T19:07:33Z",
+      "content": "Enlarge/ Lenovo's ThinkPad X1 Extreme Gen 5.\r\n1 with 0 posters participating\r\n<table><tr><th>Specs at a glance: Lenovo ThinkPad X1 Extreme Gen 5 (As reviewed)</th></tr><tr><th>Display</th><td>16-inch… [+4782 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "Microsoft sued by Call of Duty gamers opposing Activision merger",
+      "description": "Loyal gamers extremely vulnerable to potential Microsoft monopoly, lawsuit says.",
+      "url": "https://arstechnica.com/tech-policy/2022/12/microsoft-sued-by-call-of-duty-gamers-opposing-activision-merger/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1447492154-760x380.jpg",
+      "publishedAt": "2022-12-21T18:28:10Z",
+      "content": "21 with 0 posters participating\r\nAbout two weeks after the Federal Trade Commission filed a lawsuit to block Microsofts acquisition of Activision Blizzard, 10 gamers from California, New Jersey, and … [+4859 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jonathan M. Gitlin",
+      "title": "Looking for a new EV? Don’t get suckered by the top-of-the-line model",
+      "description": "From Polestar 2 to Porsche Taycan, the cheapest, least powerful version is the one.",
+      "url": "https://arstechnica.com/cars/2022/12/looking-for-a-new-ev-dont-get-suckered-by-the-top-of-the-line-model/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ev-buying-calculator-760x380.jpg",
+      "publishedAt": "2022-12-21T18:06:05Z",
+      "content": "Enlarge/ Our Creative Director didn't know that I have a fondness for the Ford Ka and still miss the one I sold before moving to America, but I like that he chose one for this graphic. \r\n17 with 0 po… [+5772 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "With Apple bowing out, YouTube is close to scoring NFL Sunday Ticket",
+      "description": "Don't expect a revolution in pricing for the $300-a-year sports package, though.",
+      "url": "https://arstechnica.com/gadgets/2022/12/with-apple-bowing-out-youtube-is-close-to-scoring-nfl-sunday-ticket/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1448815429-760x380.jpg",
+      "publishedAt": "2022-12-21T17:38:19Z",
+      "content": "Enlarge/ SANTA CLARA, CALIFORNIA - DECEMBER 11: The San Francisco 49ers new star quarterback, Brock Purdy, celebrates during a blowout 35-7 win over the Tom Brady-led Buccaneers.\r\n5 with 0 posters pa… [+4775 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kevin Purdy",
+      "title": "Eufy publicly acknowledges some parts of its “No clouds” controversy",
+      "description": "Eufy changed some cloud behavior, admitted it can do more, ignored some issues.",
+      "url": "https://arstechnica.com/gadgets/2022/12/eufy-publicly-acknowledges-some-parts-of-its-no-clouds-controversy/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/eufy_system-760x380.jpg",
+      "publishedAt": "2022-12-21T17:12:11Z",
+      "content": "Enlarge/ Eufy's security arm has publicly addressed some of the most important claims about the company's local-focused systems, but those who bought into the \"no clouds\" claims may not be fully assu… [+4610 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jon Brodkin",
+      "title": "Comcast agents mistakenly reject some poor people who qualify for free Internet",
+      "description": "Comcast reps didn't know the rules, told qualified applicants they weren't eligible.",
+      "url": "https://arstechnica.com/tech-policy/2022/12/comcast-agents-mistakenly-reject-some-poor-people-who-qualify-for-free-internet/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/getty-comcast-router-760x380.jpg",
+      "publishedAt": "2022-12-20T23:15:54Z",
+      "content": "Enlarge/ Comcast's xFi Advanced Gateway.\r\n0 with 0 posters participating\r\nPeople with low incomes can get free Internet service through Comcast and a government program, but signing up is sometimes h… [+6679 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "Man simulates time travel thanks to Stable Diffusion image synthesis",
+      "description": "Fictional travelogue shows man taking selfies in ancient Greece, Egypt, and more.",
+      "url": "https://arstechnica.com/information-technology/2022/12/man-simulates-time-travel-thanks-to-stable-diffusion-image-synthesis/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/1pwnqjh38p5a1-760x380.png",
+      "publishedAt": "2022-12-20T22:54:41Z",
+      "content": "Enlarge/ An AI-generated image of a fictional time traveler named Stelfie during the construction of the pyramids.\r\n6 with 0 posters participating\r\nThroughout December, a social media user known as S… [+2555 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jennifer Ouellette",
+      "title": "Study: 2017 rise in teen suicide rates due to seasonal shifts, not 13 Reasons Why",
+      "description": "\"We don’t have any evidence to show that 13 Reasons Why had an effect on [teen] suicide.\"",
+      "url": "https://arstechnica.com/science/2022/12/study-2017-rise-in-teen-suicide-rates-due-to-seasonal-shifts-not-13-reasons-why/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/reasons8-760x380.jpg",
+      "publishedAt": "2022-12-20T22:30:57Z",
+      "content": "Enlarge/ Katherine Langford starred as Hannah Baker, a teen who commits suicide, in the controversial Netflix series 13 Reasons Why.\r\n3 with 0 posters participating\r\nThe controversial 2017 Netflix se… [+3599 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Kremlin-backed hackers targeted a “large” petroleum refinery in a NATO nation",
+      "description": "As Russia's invasion of Ukraine grinds on, the country's hackers expand their targets.",
+      "url": "https://arstechnica.com/information-technology/2022/12/kremlin-backed-hackers-targeted-a-large-petroleum-refinery-in-a-nato-nation/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/oil-refinery-760x380.jpg",
+      "publishedAt": "2022-12-20T22:03:02Z",
+      "content": "Enlarge/ Fawley Oil Refinery on a bright day.\r\n0 with 0 posters participating\r\nOne of the Kremlins most active hacking groups targeting Ukraine recently tried to hack a large petroleum refining compa… [+4194 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kevin Purdy",
+      "title": "Raspberry Pi entering a “recovery year,” no Pi 5 arriving until 2024",
+      "description": "To avoid cannibalizing supply for other Pi products, the next model must wait.",
+      "url": "https://arstechnica.com/gadgets/2022/12/raspberry-pi-entering-a-recovery-year-no-pi-5-arriving-until-2024/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/gettyimages-457591080-594x594-1-594x380.jpg",
+      "publishedAt": "2022-12-20T21:34:03Z",
+      "content": "Raspberry Pi CEO Eben Upton said in a recent interview that next year is a time for Raspberry Pi, and the whole industry, to recover from the supply chain problems of the past two years.\r\n7 with 0 po… [+2076 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Doug Johnson",
+      "title": "Now that COP15’s over, the work needs to start",
+      "description": "Here’s a quick rundown of what came from this year’s biodiversity conference.",
+      "url": "https://arstechnica.com/science/2022/12/now-that-cop15s-over-the-work-needs-to-start/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1334442670-760x380.jpg",
+      "publishedAt": "2022-12-20T21:26:33Z",
+      "content": "1 with 0 posters participating\r\nIt was a wild year for the UN Biodiversity Conference, this year known as COP15. The international event brought delegates from more than 190 countries to Montreal to … [+4123 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "Apple’s self-service repairs expand to desktops like iMac, Mac Studio",
+      "description": "The Mac Studio, M1 iMac, M1 Mac mini, and Studio Display join the program.",
+      "url": "https://arstechnica.com/gadgets/2022/12/apples-self-service-repairs-expand-to-desktops-like-imac-mac-studio/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/IMG_0159-760x380.jpeg",
+      "publishedAt": "2022-12-20T20:56:30Z",
+      "content": "Enlarge/ Apple's Mac Studio desktop.\r\n3 with 0 posters participating\r\nApple's Self Service Repair program continues to roll out in new regions and to new products. Earlier this month, the program exp… [+1784 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "Lenovo announces cheaper Mini LED monitors with 140 W power delivery",
+      "description": "Workstation-level power delivery makes Mini LED more attractive to power users.",
+      "url": "https://arstechnica.com/gadgets/2022/12/lenovo-announces-cheaper-mini-led-monitors-with-140-w-power-delivery/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/01_ThinkVision-P32p-30.jpg",
+      "publishedAt": "2022-12-20T20:37:52Z",
+      "content": "Enlarge/ Lenovo expects its new 31.5-inch Mini LED monitor to cost $1,599.\r\n7 with 0 posters participating\r\nLenovo is preparing to release a pair of Mini LED monitors that are cheaper than its curren… [+4364 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "MSG defends using facial recognition to kick lawyer out of Rockettes show",
+      "description": "MSG Entertainment began quietly using facial recognition at venues in 2018.",
+      "url": "https://arstechnica.com/tech-policy/2022/12/facial-recognition-flags-girl-scout-mom-as-security-risk-at-rockettes-show/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-497768798-760x380.jpg",
+      "publishedAt": "2022-12-20T20:13:08Z",
+      "content": "36 with 0 posters participating\r\nWhen Kelly Conlon joined her daughters Girl Scout troop for a fun outing to see the Rockettes perform their Christmas Spectacular show at Radio City Music Hall in New… [+2703 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kevin Purdy",
+      "title": "Framework, Noctua, and other brands add official 3D models to Printables",
+      "description": "Fan brackets, laptop modules, miniatures, and other files, all in one place.",
+      "url": "https://arstechnica.com/gadgets/2022/12/framework-noctua-and-other-brands-add-official-3d-models-to-printables/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/printables3-760x380.jpg",
+      "publishedAt": "2022-12-20T19:56:49Z",
+      "content": "Enlarge/ Printables is aiming to build a one-stop site for 3D-printed parts and accessories from brands like Noctua.\r\n10 with 0 posters participating\r\nA number of device and accessory brandsincluding… [+2649 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "19 states choke TikTok on gov’t devices; feds push for nationwide restrictions",
+      "description": "Louisiana and West Virginia join 17 states restricting access on state devices.",
+      "url": "https://arstechnica.com/tech-policy/2022/12/19-states-choke-tiktok-on-govt-devices-feds-push-for-nationwide-restrictions/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1438215080-760x380.jpg",
+      "publishedAt": "2022-12-20T19:04:37Z",
+      "content": "16 with 0 posters participating\r\nIn the past two weeks, United States lawmakers have increasingly restricted access to China-owned TikTok on government-managed devices. TikTok is one of the most popu… [+2637 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Doug Johnson",
+      "title": "The deep sea is an unexpected, but at-risk, trove of biodiversity",
+      "description": "The UN biodiversity conference reminds us how little we know of the deep ocean.",
+      "url": "https://arstechnica.com/science/2022/12/the-deep-sea-is-an-unexpected-but-at-risk-trove-of-biodiversity/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-170956308-760x380.jpg",
+      "publishedAt": "2022-12-20T18:45:33Z",
+      "content": "0 with 0 posters participating\r\nIn the past, scientists thought of the deep ocean as a cold, dead place. While the regiongenerally considered to be everything between 200 and 11,000 meters in depthis… [+4367 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "It might be time for Apple to throw in the towel on the Mac Pro",
+      "description": "Opinion: Making the case against Apple's most expensive—and most ignored—Mac.",
+      "url": "https://arstechnica.com/gadgets/2022/12/it-might-be-time-for-apple-to-throw-in-the-towel-on-the-mac-pro/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/2019-mac-pro-760x380.jpeg",
+      "publishedAt": "2022-12-20T18:32:35Z",
+      "content": "Enlarge/ Apple's 2019 Mac Pro, a trypophobe's nightmare.\r\n0 with 0 posters participating\r\nThe Mac Pro is one of the few remaining Intel Macs with no Apple Silicon replacement ready to go, even though… [+5880 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "Lenovo updates ThinkPad laptops with fresh CPUs, recycled metals",
+      "description": "Lenovo's premium laptops see a mild refresh this time around.",
+      "url": "https://arstechnica.com/gadgets/2022/12/lenovo-updates-thinkpad-laptops-with-fresh-cpus-recycled-metals/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/04_X1_Carbon_G11_Hero_Front_Facing_Left-e1671557225624-760x380.png",
+      "publishedAt": "2022-12-20T18:10:41Z",
+      "content": "6 with 0 posters participating\r\nToday, Lenovo announced upcoming updates to its ThinkPad X1 lineup, including the flagship ThinkPad X1 Carbon. Lenovo's 2023 ThinkPad X1 Carbon, X1 Yoga, and X1 Nano w… [+3753 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jonathan M. Gitlin",
+      "title": "The USPS now says it will buy 66,000 EVs by 2028",
+      "description": "The fleet will include 45,000 electric NGDVs and 21,000 other battery EVs.",
+      "url": "https://arstechnica.com/cars/2022/12/the-usps-now-says-it-will-buy-66000-evs-by-2028/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/NGDVsideView-scaled-760x380.jpg",
+      "publishedAt": "2022-12-20T17:38:12Z",
+      "content": "Enlarge/ It's called the Next Generation Delivery Vehicle, and it was designed by Oshkosh Defense. \r\n24 with 0 posters participating\r\nOn Tuesday, the long-running saga of the United States Postal Ser… [+4376 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jon Brodkin",
+      "title": "Ukraine to get 10,000 more Starlink antennas; funding problems are “resolved”",
+      "description": "Ukraine has assurance from Musk and funding deals with EU allies, official says.",
+      "url": "https://arstechnica.com/tech-policy/2022/12/starlink-will-send-another-10000-satellite-terminals-to-ukraine/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/getty-starlink-ukraine-760x380.jpg",
+      "publishedAt": "2022-12-20T16:54:04Z",
+      "content": "Enlarge/ A Starlink satellite dish in Odesa, Ukraine, in March 2022.\r\n11 with 0 posters participating\r\nUkraine will get over 10,000 more Starlink terminals in the coming months thanks to a new deal w… [+3201 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Eric Berger",
+      "title": "NASA’s InSight lander has probably phoned home for the last time",
+      "description": "InSight landed on Mars in 2018 with the aim of studying seismic activity.",
+      "url": "https://arstechnica.com/science/2022/12/nasas-insight-lander-has-probably-phoned-home-for-the-last-time/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/FkXye41UcAAnbXj-760x380.jpg",
+      "publishedAt": "2022-12-20T16:37:51Z",
+      "content": "Enlarge/ This is probably the last image taken by InSight on the surface of Mars and relayed back to Earth.\r\n14 with 0 posters participating\r\nNASA's InSight lander has probably phoned home for the la… [+2240 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jonathan M. Gitlin",
+      "title": "Automotive chip shortages to continue throughout 2023, industry says",
+      "description": "Chipmakers are adding more capacity but are effectively sold out until 2024.",
+      "url": "https://arstechnica.com/cars/2022/12/automotive-chip-shortages-to-continue-throughout-2023-industry-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1348983692-760x380.jpg",
+      "publishedAt": "2022-12-20T15:57:42Z",
+      "content": "Enlarge/ Some analysts have estimated that the chip shortage has caused new car prices to rise by 16 percent in two years.\r\n16 with 0 posters participating\r\nWe can expect continued disruption to the … [+2370 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "Reminder: Donate to win swag in our annual Charity Drive sweepstakes",
+      "description": "There's still time to contribute to this year's charity haul of nearly $12K so far.",
+      "url": "https://arstechnica.com/gaming/2022/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-9/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ars-charity-drive-2022-760x380.jpg",
+      "publishedAt": "2022-12-20T15:14:25Z",
+      "content": "0 with 0 posters participating\r\nIf you were too distracted this weekend by John Carmack's Friday departure from Meta to donate to this year's Ars Technica Charity Drive sweepstakes, don't worry. You … [+2034 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jonathan M. Gitlin",
+      "title": "Porsche’s synthetic gasoline factory comes online today in Chile",
+      "description": "The Haru Oni plant will scale up from 34,000 gallons to 14.5 million gallons by 2024.",
+      "url": "https://arstechnica.com/cars/2022/12/porsches-synthetic-gasoline-factory-comes-online-today-in-chile/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/S22_4359_fine-760x380.jpeg",
+      "publishedAt": "2022-12-20T15:09:43Z",
+      "content": "Enlarge/ The HIF synthetic fuel plant near Punta Arenas in Chile.\r\n27 with 0 posters participating\r\nThis week, a Chilean startup called Highly Innovative Fuels officially opened its first synthetic g… [+4745 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ars Staff",
+      "title": "Webcam buying guide: The Ars picks, from affordable to extravagant",
+      "description": "Whether you're streaming games or joining Zoom meetings, you've got options.",
+      "url": "https://arstechnica.com/gadgets/2022/12/webcam-buying-guide-the-ars-picks-from-affordable-to-extravagant/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/DSC_4571-Edit-760x380.jpg",
+      "publishedAt": "2022-12-20T12:00:29Z",
+      "content": "11 with 0 posters participating\r\nWebcams are having a moment. With video chats and teleconferences becoming a normal facet of life in a pandemic-addled world, having a device that presents you at you… [+3968 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Swatters used Ring cameras to livestream attacks, taunt police, prosecutors say",
+      "description": "More than a dozen attacks allegedly logged in a single week.",
+      "url": "https://arstechnica.com/information-technology/2022/12/swatters-used-ring-cameras-to-livestream-attacks-taunt-police-prosecutors-say/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/doorbell-camera-760x380.jpg",
+      "publishedAt": "2022-12-20T00:35:43Z",
+      "content": "5 with 0 posters participating\r\nFederal prosecutors have charged two men with allegedly taking part in a spree of swatting attacks against more than a dozen owners of compromised Ring home security c… [+3272 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "Make your bathroom sound like a pro audio booth with Adobe’s free AI tool",
+      "description": "\"Enhance Speech\" uses AI to make noisy voice recordings sound like pro studio audio.",
+      "url": "https://arstechnica.com/information-technology/2022/12/make-a-bathroom-sound-like-a-pro-audio-booth-with-adobes-free-ai-tool/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/adobe_speech_enhance_hero_1-760x380.jpg",
+      "publishedAt": "2022-12-19T23:22:42Z",
+      "content": "Enlarge/ Adobe's Enhance Speech service can remove background noise from certain voice recordings.\r\n5 with 0 posters participating\r\nRecently, Adobe released a free AI-powered audio processing tool th… [+2527 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "John Timmer",
+      "title": "Power plant pollution higher in neighborhoods subject to racist redlining",
+      "description": "Past maps of \"high-risk\" neighborhoods shape present power planet emissions.",
+      "url": "https://arstechnica.com/science/2022/12/uss-racist-housing-legacy-has-left-the-poor-at-risk-of-power-plant-pollution/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-sb10067592d-001-760x380.jpg",
+      "publishedAt": "2022-12-19T22:57:18Z",
+      "content": "0 with 0 posters participating\r\nIn the US, it's well-documented that poor neighborhoods are likely to suffer from higher pollution levels. Sources of pollution, like power plants and freeways, are mo… [+5774 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "This mechanical keyboard has a dazzling, distracting display under its keys",
+      "description": "$349 peripheral uses its own CPU and GPU to power the show.",
+      "url": "https://arstechnica.com/gadgets/2022/12/this-mechanical-keyboard-has-a-dazzling-distracting-display-under-its-keys/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/rocket-760x380.jpg",
+      "publishedAt": "2022-12-19T19:22:38Z",
+      "content": "10 with 0 posters participating\r\nIf you think RGB LEDs dancing upon your keyboard's keys is distracting, you might want to look away from Finalmouse's upcoming mechanical keyboard. The Finalmouse Cen… [+4019 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Critical Windows code-execution vulnerability went undetected until now",
+      "description": "Microsoft elevates security rating for vulnerability resembling EternalBlue.",
+      "url": "https://arstechnica.com/information-technology/2022/12/critical-windows-code-execution-vulnerability-went-undetected-until-now/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages_SkullCrossbonesBinaryComputerScreen-CROPPED-760x380.jpeg",
+      "publishedAt": "2022-12-19T18:46:33Z",
+      "content": "0 with 0 posters participating\r\nResearchers recently discovered a Windows code-execution vulnerability that has the potential to rival EternalBlue, the name of a different Windows security flaw used … [+3678 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "Someone tries to sell a Pixel Tablet prototype, posts pictures",
+      "description": "Dubious listing gives us the first real-life pictures of Google's upcoming tablet.",
+      "url": "https://arstechnica.com/gadgets/2022/12/someone-tries-to-sell-a-pixel-tablet-prototype-posts-pictures/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Pixel-tablet-760x380.jpg",
+      "publishedAt": "2022-12-19T18:19:20Z",
+      "content": "9 with 0 posters participating\r\n<ul><li>\r\n The Pixel Tablet! Apparently it will also come in black, or at least this prototype does. \r\n</li><li>\r\n 256GB will offer plenty of storage. Also Android 13 … [+2571 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kevin Purdy",
+      "title": "Lobbyists have held up nation’s first right-to-repair bill in New York",
+      "description": "Passed with bipartisan support, the bill could die on Gov. Hochul's desk.",
+      "url": "https://arstechnica.com/tech-policy/2022/12/right-to-repair-bill-passed-in-june-still-awaits-ny-governors-signature/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-927615664-760x380.jpg",
+      "publishedAt": "2022-12-19T18:04:31Z",
+      "content": "Enlarge/ Tech companies, including Apple, have lobbied hard to prevent a New York bill that would require them to make repair information and parts available to individuals and non-affiliated repair … [+3754 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "Report: Police find no evidence yet that stalker used ElonJet to track Musk",
+      "description": "Report: Police find no evidence yet that stalker used ElonJet to track Muskarstechnica.com",
+      "url": "https://arstechnica.com/tech-policy/2022/12/report-police-find-no-evidence-yet-that-stalker-used-elonjet-to-track-musk/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-958397822-760x380.jpg",
+      "publishedAt": "2022-12-19T17:50:35Z",
+      "content": "54 with 0 posters participating\r\nLast Wednesday, Elon Musk seemed absolutely convinced that an alleged crazy stalker used a Twitter account tracking his private jet to accurately pinpoint the Twitter… [+2290 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jonathan M. Gitlin",
+      "title": "Not sporty enough, not efficient enough—the 2023 Lexus RX 500h F Sport",
+      "description": "Now in its fifth generation, the Lexus RX arguably invented the crossover.",
+      "url": "https://arstechnica.com/cars/2022/12/not-sporty-enough-not-efficient-enough-the-2023-lexus-rx-500h-f-sport/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/2023-Lexus-RX-500h-F-Sport-1-760x380.jpg",
+      "publishedAt": "2022-12-19T16:46:43Z",
+      "content": "Enlarge/ Modern Lexuses are dominated by a huge hourglass grille that reminds GenXers like me of Battlestar Galactica.\r\n13 with 0 posters participating\r\nSomething about automotive body styles brings … [+5745 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "Epic will pay $520 million to settle FTC privacy, payment complaints",
+      "description": "Massive fines highlight stricter enforcement standards for children in online games.",
+      "url": "https://arstechnica.com/gaming/2022/12/epic-will-pay-520-million-to-settle-ftc-privacy-payment-complaints/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/fortnite2-760x380.jpg",
+      "publishedAt": "2022-12-19T16:16:29Z",
+      "content": "Enlarge/ Artist's conception of the FTC standing over a pile of Epic Games fines.\r\n3 with 0 posters participating\r\nEpic Games will pay over half a billion dollars to settle two FTC complaints regardi… [+4580 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Eric Berger",
+      "title": "Russia says it will take no immediate action on damaged Soyuz spacecraft",
+      "description": "In reality, the Soyuz is a hardy spacecraft.",
+      "url": "https://arstechnica.com/science/2022/12/russia-says-it-will-take-no-immediate-action-on-damaged-soyuz-spacecraft/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/NASA-Live_-Official-Stream-of-NASA-TV-13-20-8-screenshot-760x380.png",
+      "publishedAt": "2022-12-19T15:59:55Z",
+      "content": "Enlarge/ Three hours after the coolant leak was initially detected Wednesday night, it remained ongoing.\r\n3 with 0 posters participating\r\nAfter working through the weekend to better characterize dama… [+3114 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jon Brodkin",
+      "title": "Musk polls Twitter users on whether he should be CEO—57.5% want him to quit",
+      "description": "\"Should I step down as head of Twitter? I will abide by the results of this poll.\"",
+      "url": "https://arstechnica.com/tech-policy/2022/12/musk-polls-twitter-users-on-whether-he-should-be-ceo-57-5-want-him-to-quit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Elon-Musk-Twitter-Bust-760x380.jpg",
+      "publishedAt": "2022-12-19T15:33:07Z",
+      "content": "10 with 0 posters participating\r\nElon Musk polled Twitter users yesterday on whether he should remain as the company's CEO and claimed he would abide by the results. The poll concluded with 17.5 mill… [+2457 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jonathan M. Gitlin",
+      "title": "An electric Kia that’s faster than a Lamborghini? The 2023 EV6 GT, driven",
+      "description": "The performance Kia EV has playful handling and easy sub-12 second quarter-miles.",
+      "url": "https://arstechnica.com/cars/2022/12/an-electric-kia-thats-faster-than-a-lamborghini-the-2023-ev6-gt-driven/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/2023-Kia-EV6-GT-1-760x380.jpg",
+      "publishedAt": "2022-12-19T05:12:02Z",
+      "content": "Enlarge/ You need a keen eye to spot that this is a Kia EV6 GTthe larger wheels and neon green brake calipers are the main clue.\r\n5 with 0 posters participating\r\nKia provided flights from DC to Las V… [+4410 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jonathan M. Gitlin",
+      "title": "The 2023 Audi Q8 e-tron: Midlife refresh boosts range and efficiency",
+      "description": "The 2023 Audi Q8 e-tron: Midlife refresh boosts range and efficiencyarstechnica.com",
+      "url": "https://arstechnica.com/cars/2022/12/the-2023-audi-q8-e-tron-midlife-refresh-boosts-range-and-efficiency/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/2023-Audi-Q8-e-tron-1-760x380.jpg",
+      "publishedAt": "2022-12-18T23:10:36Z",
+      "content": "Enlarge/ After selling more than 160,000 e-tron SUVs, Audi has given the model a midlife refresh and a new namethe Q8 e-tron. (The one seen here is the SQ8 e-tron Sportback version.)\r\n1 with 0 poster… [+4309 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "John Timmer",
+      "title": "RocketLab’s first North American launch set for Sunday",
+      "description": "After delays, company is set for a 6 pm US Eastern launch of a small satellite.",
+      "url": "https://arstechnica.com/science/2022/12/rocketlabs-first-north-american-launch-set-for-sunday/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/Screen-Shot-2022-12-18-at-10.57.04-AM-760x380.png",
+      "publishedAt": "2022-12-18T16:04:37Z",
+      "content": "Enlarge/ The Electron rocket, covered in while protective material, on its side on its launch pad on Wallops Island.\r\n0 with 0 posters participating\r\nOn Sunday, RocketLab plans to send its small laun… [+2067 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ars Contributors",
+      "title": "I am Superman: The Trek EXe mountain e-bike, reviewed",
+      "description": "Hitting the trails with Trek's top of the line mountain e-bike.",
+      "url": "https://arstechnica.com/cars/2022/12/i-am-superman-the-trek-exe-mountain-e-bike-reviewed/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/exe-7-760x380.jpg",
+      "publishedAt": "2022-12-17T12:07:47Z",
+      "content": "Enlarge/ The Fuel EXe 9.9 XX1 AXS.\r\n7 with 0 posters participating\r\nI rediscovered my bike after a few weeks in lockdown. At first, I just pedaled my cheap, steel-framed bike around the neighborhood.… [+3091 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "Once a VR true believer, a “weary” John Carmack leaves Meta",
+      "description": "Departing CTO rails against \"inefficiency\" and \"self-sabotage\" in the Meta ranks.",
+      "url": "https://arstechnica.com/gaming/2022/12/john-carmack-leaves-meta-after-a-decade-fighting-to-make-vr-a-reality/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/carmackavatar-760x380.png",
+      "publishedAt": "2022-12-17T03:40:09Z",
+      "content": "Enlarge/ Artist's conception of Carmack's VR avatar waving goodbye to Meta.\r\n17 with 0 posters participating\r\nAfter nearly ten years, John Carmack's time helping to guide VR hardware efforts at Meta … [+3236 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "Corsair says bug, not keylogger, behind some K100 keyboards’ creepy behavior",
+      "description": "An error with the macro recording feature may be to blame.",
+      "url": "https://arstechnica.com/gadgets/2022/12/corsair-says-bug-not-keylogger-behind-some-k100-keyboards-creepy-behavior/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1351537194-760x380.jpg",
+      "publishedAt": "2022-12-17T00:02:10Z",
+      "content": "18 with 0 posters participating\r\nKeylogger-like behavior has some Corsair K100 keyboard customers concerned. Several users have reported their peripheral randomly entering text into their computer th… [+4898 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "Riffusion’s AI generates music from text using visual sonograms",
+      "description": "Stable Diffusion-powered music generator processes sound in the visual space.",
+      "url": "https://arstechnica.com/information-technology/2022/12/riffusions-ai-generates-music-from-text-using-visual-sonograms/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/riffusion_hero_1-760x380.jpg",
+      "publishedAt": "2022-12-16T21:50:40Z",
+      "content": "Enlarge/ An AI-generated image of musical notes exploding forth from a computer monitor.\r\n3 with 0 posters participating\r\nOn Thursday, a pair of tech hobbyists released Riffusion, an AI model that ge… [+2963 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jon Brodkin",
+      "title": "Twitter stiffs software vendor with $8 million left on contract, lawsuit says",
+      "description": "Lawsuit: Twitter has refused to make required payments since Musk took over.",
+      "url": "https://arstechnica.com/tech-policy/2022/12/twitter-stiffs-software-vendor-with-8-million-left-on-contract-lawsuit-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/twitter-logo-broken-760x380.jpg",
+      "publishedAt": "2022-12-16T21:06:46Z",
+      "content": "24 with 0 posters participating\r\nA lawsuit says Twitter failed to pay a $1,092,000 invoice in a software contract that doesn't expire until late 2024, and that the Elon Musk-led company apparently in… [+4800 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "Forget The Witcher and Superman: Henry Cavill to lead Warhammer 40K dream project",
+      "description": "Amazon acquired the rights to potentially create its own cinematic universe.",
+      "url": "https://arstechnica.com/gaming/2022/12/forget-the-witcher-and-superman-henry-cavill-to-lead-warhammer-40k-dream-project/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/Geralt-Witcher-760x380.jpg",
+      "publishedAt": "2022-12-16T20:51:42Z",
+      "content": "Enlarge/ Henry Cavill as Geralt from Netflix's The Witcher TV series.\r\n10 with 0 posters participating\r\nAmazon has signed a deal with Games Workshop to gain the intellectual property rights that will… [+2914 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "Steam Deck 2.0 could focus on battery life over better performance",
+      "description": "Positioning profusely powerful portable processors not a priority for Valve.",
+      "url": "https://arstechnica.com/gaming/2022/12/steam-deck-2-0-could-focus-on-battery-life-over-better-performance/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/steam-deck-760x380.jpg",
+      "publishedAt": "2022-12-16T20:29:02Z",
+      "content": "Enlarge/ No word on whether the next Steam Deck will help protect the wood on your deck.\r\n25 with 0 posters participating\r\nNow that Valve's Steam Deck has been technically available for about ten mon… [+4187 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "Linux, Amazon, Meta, and Microsoft want to break the Google Maps monopoly",
+      "description": "Overture Maps Foundation wants to end the oppressive rule of the Google Maps API.",
+      "url": "https://arstechnica.com/gadgets/2022/12/linux-amazon-meta-and-microsoft-want-to-break-the-google-maps-monopoly/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/overture-maps-foundation-760x380.jpg",
+      "publishedAt": "2022-12-16T19:22:29Z",
+      "content": "Enlarge/ The Overture Maps logo. \r\n3 with 0 posters participating\r\nGoogle Maps is getting some competition. The Linux Foundation has announced Overture Maps, a \"new collaborative effort to develop in… [+5402 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kevin Purdy",
+      "title": "PineTab 2 is a RockChip-based, Linux-focused, repairable tablet",
+      "description": "10-inch tablet with detachable keyboard case should be available in early 2023.",
+      "url": "https://arstechnica.com/gadgets/2022/12/pinetab-2-is-a-rockchip-based-linux-powered-repairable-tablet/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/pinetab1-760x380.jpg",
+      "publishedAt": "2022-12-16T18:52:05Z",
+      "content": "Enlarge/ PCB for the prototype PineTab 2, a successor to a tablet that hit production at the worst possible point in 2020.\r\n1 with 0 posters participating\r\nPine64, makers of ARM-based, tinker-friendl… [+3336 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jon Brodkin",
+      "title": "Musk suspends NYT and WaPo reporters from Twitter, claims they doxxed him",
+      "description": "NYT and Washington Post say Twitter provided no explanation for suspensions.",
+      "url": "https://arstechnica.com/tech-policy/2022/12/musk-suspends-nyt-and-wapo-reporters-from-twitter-claims-they-doxxed-him/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/getty-musk-twitter-760x380.jpg",
+      "publishedAt": "2022-12-16T17:52:31Z",
+      "content": "51 with 0 posters participating\r\nTwitter owner and CEO Elon Musk is now suspending some journalists who write about him, including reporters from The New York Times, Washington Post, and CNN. The jou… [+3732 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "US lawmakers take aim at gaming’s “harassment and extremism” problem",
+      "description": "Letters to gaming companies could be first step toward hearings or gov't action.",
+      "url": "https://arstechnica.com/gaming/2022/12/us-lawmakers-take-aim-at-gamings-harassment-and-extremism-problem/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/hassan-760x380.png",
+      "publishedAt": "2022-12-16T17:27:38Z",
+      "content": "Enlarge/ Sen. Maggie Hassan (D-NH) has asked Valve to addres the prevalence of neo-Nazi accounts and content on its Steam platform.\r\n48 with 0 posters participating\r\nUS Congress members are once agai… [+3476 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Eric Berger",
+      "title": "Here’s what we know, and what we don’t, about the damaged Soyuz spacecraft",
+      "description": "The biggest concern is the flight computers on board the Soyuz spacecraft.",
+      "url": "https://arstechnica.com/science/2022/12/heres-what-we-know-and-what-we-dont-about-the-damaged-soyuz-spacecraft/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/blog_era_soyuz_121522-760x380.jpg",
+      "publishedAt": "2022-12-16T16:42:31Z",
+      "content": "Enlarge/ The European robotic arm is seen investigating Soyuz MS-22 after a leak occurred Wednesday night.\r\n5 with 0 posters participating\r\nSince a Soyuz spacecraft began to leak coolant uncontrollab… [+2773 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jonathan M. Gitlin",
+      "title": "Do Cruise’s AVs brake-check other drivers? Feds are investigating",
+      "description": "Three Cruise AVs have been rear-ended after braking too hard while being followed.",
+      "url": "https://arstechnica.com/cars/2022/12/nhtsa-is-investigating-cruise-autonomous-vehicles-for-brake-checking/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1238159620-760x380.jpg",
+      "publishedAt": "2022-12-16T16:23:26Z",
+      "content": "Enlarge/ A Cruise vehicle on the streets of San Fransisco.\r\n33 with 0 posters participating\r\nThe National Highway Traffic Safety Administration is looking into Cruise's robotaxis after several crashe… [+3022 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dhananjay Khadilkar",
+      "title": "Weird quantum effect used for highly precise interferometer",
+      "description": "Interference patterns in a cloud of atoms made in a portable device.",
+      "url": "https://arstechnica.com/science/2022/12/weird-quantum-effect-used-for-highly-precise-interferometer/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/image-6-760x380.jpeg",
+      "publishedAt": "2022-12-16T16:12:23Z",
+      "content": "Enlarge/ Tracking acceleration using matter waves hasn't previously been implemented in a portable form.\r\n2 with 0 posters participating\r\nA team of researchers from France has developed the first thr… [+4242 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "Review: HP’s Dragonfly Folio G3 stays cool and quiet in faux leather",
+      "description": "High-fashion 2-in-1's inflated price is more for its design than its performance.",
+      "url": "https://arstechnica.com/gadgets/2022/12/review-hps-dragonfly-folio-g3-stays-cool-and-quiet-in-faux-leather/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/HP-Dragonfly-Folio-G3-760x380.jpg",
+      "publishedAt": "2022-12-16T12:00:33Z",
+      "content": "Enlarge/ The HP Dragonfly Folio G3 2-in-1 laptop. \r\n1 with 0 posters participating\r\n<table><tr><th>Specs at a glance: HP Dragonfly Folio G3</th></tr><tr><td></td><td>Worst</td><td>Best</td><td>As rev… [+3780 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Eric Berger",
+      "title": "Rocket Report: India looking to purchase Russian engines; the US Electron is nigh",
+      "description": "No one has yet stepped forth to win the great methane rocket race.",
+      "url": "https://arstechnica.com/science/2022/12/rocket-report-spacex-may-launch-twice-in-18-minutes-the-us-electron-is-nigh/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ispace-760x380.jpg",
+      "publishedAt": "2022-12-16T12:00:32Z",
+      "content": "Enlarge/ Image taken from the Hakuto-R spacecraft after it separated from the Falcon 9 upper stage, which can be seen at right.\r\n0 with 0 posters participating\r\nWelcome to Edition 5.21 of the Rocket … [+3726 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "Stability AI plans to let artists opt out of Stable Diffusion 3 image training",
+      "description": "Artists must register and manually flag matched images in the LAION database.",
+      "url": "https://arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/optout_hero_1-760x380.jpg",
+      "publishedAt": "2022-12-15T22:42:10Z",
+      "content": "Enlarge/ An AI-generated image of a person leaving a building, thus opting out of the vertical blinds convention.\r\n10 with 0 posters participating\r\nOn Wednesday, Stability AI announced it would allow… [+4029 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "Oppo’s foldable phones take on Samsung with a flip phone and a tablet",
+      "description": "Oppo's Find N2 and Find N2 Flip have interesting takes on the foldable phone.",
+      "url": "https://arstechnica.com/gadgets/2022/12/oppos-foldable-phones-take-on-samsung-with-a-flip-phone-and-a-tablet/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/1-760x380.jpg",
+      "publishedAt": "2022-12-15T22:20:27Z",
+      "content": "with 0 posters participating\r\n<ul><li>\r\n</li><li>\r\n The cover display is short and fat. \r\n</li><li>\r\n Here's a good look at the inner display. \r\n</li><li>\r\n The Color 13 (Android 13) homescreen looks… [+4780 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "Amazon Games branches out, announces it will publish the next Tomb Raider",
+      "description": "Shadow of the Tomb Raider follow-up will be Amazon's first single-player game.",
+      "url": "https://arstechnica.com/gaming/2022/12/amazon-games-branches-out-announces-it-will-publish-the-next-tomb-raider/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/Lara-Croft-screenshot-760x380.jpeg",
+      "publishedAt": "2022-12-15T21:54:26Z",
+      "content": "Enlarge/ A screenshot from the most recent main-series Tomb Raider title, 2018's Shadow of the Tomb Raider\r\n16 with 0 posters participating\r\nAmazon's games division will publish the next big Tomb Rai… [+2768 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Andrew Cunningham",
+      "title": "$40 Belkin iPhone mount will help replace your Mac desktop’s mediocre webcam",
+      "description": "The first version of the mount was only sized to work with MacBooks.",
+      "url": "https://arstechnica.com/gadgets/2022/12/40-belkin-iphone-mount-will-help-replace-your-mac-desktops-mediocre-webcam/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/IMG_0568-760x380.jpeg",
+      "publishedAt": "2022-12-15T21:51:32Z",
+      "content": "Enlarge/ An iPhone 13 Pro stuck to Belkin's MagSafe camera mount for laptops. The desktop version works similarly, just with a different design for thicker screens.\r\n6 with 0 posters participating\r\nT… [+1824 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "Big Tech sues to block California’s strict online child-safety law",
+      "description": "Suit claims \"guessing wrong\" about young user harms could cost companies $20B.",
+      "url": "https://arstechnica.com/tech-policy/2022/12/big-tech-sues-to-block-californias-strict-online-child-safety-law/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1221028735-760x380.jpg",
+      "publishedAt": "2022-12-15T21:08:22Z",
+      "content": "9 with 0 posters participating\r\nIn the last half of 2022 alone, many servicesfrom game platforms designed with kids in mind to popular apps like TikTok or Twitter catering to all ageswere accused of … [+3976 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "John Timmer",
+      "title": "Scientists revisit Kepler findings, learn two planets are likely water worlds",
+      "description": "Density suggests these \"super-Earths\" are more like giant, hot Europas.",
+      "url": "https://arstechnica.com/science/2022/12/scientists-revisit-kepler-findings-learn-two-planets-are-water-worlds/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/STScI-01GGTAPWRG7MWT5D0CZ48FFW3J-760x380.png",
+      "publishedAt": "2022-12-15T20:37:20Z",
+      "content": "1 with 0 posters participating\r\nTwo planets that were originally discovered by the Kepler mission may not be what we thought they were. Based on an initial characterization, it was thought these plan… [+2796 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Diana Gitig",
+      "title": "Your next pour-over may be Liberica or excelsa",
+      "description": "Climate change has coffee growers searching for alternative crop strains.",
+      "url": "https://arstechnica.com/science/2022/12/your-next-pour-over-may-be-liberica-or-excelsa/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/IMG_1185-760x380.jpg",
+      "publishedAt": "2022-12-15T20:12:48Z",
+      "content": "1 with 0 posters participating\r\nCoffee is uniquely vulnerable to climate change. It grows in tropical regions, where temperatures and rainfall are becoming increasingly erratic; it is grown by small … [+2472 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Microsoft discovers Windows/Linux botnet used in DDoS attacks",
+      "description": "MCCrash is specially designed to take down Minecraft servers and performs other DDoSes.",
+      "url": "https://arstechnica.com/information-technology/2022/12/microsoft-discovers-windows-linux-botnet-used-in-ddos-attacks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/09/botnet5-760x380.jpg",
+      "publishedAt": "2022-12-15T20:02:50Z",
+      "content": "0 with 0 posters participating\r\nMicrosoft researchers have discovered a hybrid Windows-Linux botnet that uses a highly efficient technique to take down Minecraft servers and performs distributed deni… [+2724 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kevin Purdy",
+      "title": "Google Nest and Android devices are now Matter controllers (for future devices) - Ars Technica",
+      "description": "Google Nest and Android devices are now Matter controllers (for future devices)  Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2022/12/google-nest-and-android-devices-are-now-matter-controllers-for-future-devices/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/Google-Matter-760x380.png",
+      "publishedAt": "2022-12-15T18:36:22Z",
+      "content": "Enlarge/ A whole bunch of Google devices, including Android phones, can now control Matter devices. Those devices will be here at some point, perhaps soon.\r\n6 with 0 posters participating\r\nThe promis… [+2426 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "Vampire Survivors‘ first DLC offers some enjoyable (but diminishing) returns",
+      "description": "Legacy of the Moonspell's new unlockables are interesting... for a while, at least.",
+      "url": "https://arstechnica.com/gaming/2022/12/vampire-survivors-first-dlc-offers-some-enjoyable-but-diminishing-returns/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/vs5-760x380.jpg",
+      "publishedAt": "2022-12-15T18:24:25Z",
+      "content": "Enlarge/ Welcome back my friends, to the horde that never ends.\r\n4 with 0 posters participating\r\nIn our review of Vampie Survivors, we noted how it seems like \"you're always unlocking some cool new t… [+3888 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "FuboTV says “criminal cyber attack” caused outage during World Cup semifinals",
+      "description": "Streaming service goes dark during one of the most anticipated sporting matches.",
+      "url": "https://arstechnica.com/information-technology/2022/12/fubotv-says-criminal-cyber-attack-caused-outage-during-world-cup-semifinals/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/no-signal-tv-760x380.jpg",
+      "publishedAt": "2022-12-15T18:13:29Z",
+      "content": "0 with 0 posters participating\r\nSports-focused streaming-video service FuboTV said a criminal cyber attack was responsible for a prolonged outage that prevented subscribers from viewing most of Thurs… [+1588 chars]"
+    }
+  ]
+}

@@ -8,9 +8,6 @@ import retrofit2.http.Query
 
 
 interface NewsApiService {
-    //Examples
-    //https://newsapi.org/v2/top-headlines?country=us&apiKey=a6be2141d63e447e9a0b56c42df8417a&page=2
-    //https://newsapi.org/v2/everything?sources=ars-technica&apiKey=a6be2141d63e447e9a0b56c42df8417a
 
     @GET("/v2/top-headlines")
     suspend fun getTopHeadlines(
