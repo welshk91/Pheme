@@ -26,4 +26,15 @@ class ApplicationDataRepository {
         response
     }
 
+    suspend fun getEverything(sources: String, page: String? = "1"): Response<NewsResponse> =
+        withContext(Dispatchers.IO) {
+            val retrofit = RetrofitClient.getInstance()
+            val apiInterface = retrofit.create(NewsApiService::class.java)
+            val response = apiInterface.getEverything(
+                sources = sources,
+                page = page
+            )
+            response
+        }
+
 }

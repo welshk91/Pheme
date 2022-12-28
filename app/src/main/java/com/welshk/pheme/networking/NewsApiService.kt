@@ -34,14 +34,14 @@ interface NewsApiService {
     @GET("/v2/everything")
     suspend fun getEverything(
         @Query("apiKey") apikey: String? = BuildConfig.API_KEY,
-        @Query("q") query: String?,
-        @Query("sources") sources: String?,
-        @Query("domains") domains: String?,
-        @Query("excludeDomains") excludedDomains: String?,
-        @Query("from") from: String?,
-        @Query("to") to: String?,
-        @Query("language") language: String?,
-        @Query("sortBy") sortBy: String?,
+        @Query("q") query: String? = null,
+        @Query("sources") sources: String? = null,
+        @Query("domains") domains: String? = null,
+        @Query("excludeDomains") excludedDomains: String? = null,
+        @Query("from") from: String? = null,
+        @Query("to") to: String? = null,
+        @Query("language") language: String? = null,
+        @Query("sortBy") sortBy: String? = null,
         @Query("pageSize") pageSize: String? = "25",
         @Query("page") page: String? = "1"
     ): Response<NewsResponse>

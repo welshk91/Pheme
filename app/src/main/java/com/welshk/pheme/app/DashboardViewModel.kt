@@ -24,7 +24,7 @@ class DashboardViewModel @Inject constructor(private val repository: Application
 
     fun fetchNews(){
         viewModelScope.launch {
-            val response = repository.getTopHeadlines("Apple")
+            val response = repository.getEverything("ars-technica")
             if (response.isSuccessful) {
                 val details = response.body()
                 details?.let {
