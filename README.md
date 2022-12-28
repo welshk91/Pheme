@@ -18,6 +18,7 @@ It is _not_ intended to be a commercial product or even a consumer one. It will 
 * [News API](https://newsapi.org/)
 * [News API - Documentation](https://newsapi.org/docs)
 * [News API - Top Headlines](https://newsapi.org/docs/endpoints/top-headlines)
+* [Markus Winkler - Placeholder image](https://unsplash.com/@markuswinkler)
 
 ## Third-Party Libraries Used
 * [Retrofit](https://square.github.io/retrofit/)
@@ -30,6 +31,7 @@ It is _not_ intended to be a commercial product or even a consumer one. It will 
 * Clean up Dashboard UI
 * Add Article Details Fragment
 * App Icon
+* Screenshots
 
 ## FAQ
 * I cloned the repo, but I can't seem to get the app to compile/run?

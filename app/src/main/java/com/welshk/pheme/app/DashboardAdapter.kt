@@ -28,11 +28,17 @@ class DashboardAdapter(
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         articles?.get(position)?.let {
             holder.title.text = it.title
-            holder.author.text = it.author
+            holder.author.text = it.author ?: it.source.name
 
-            Picasso.get()
-                .load(it.urlToImage)
-                .into(holder.image)
+            if (it.urlToImage.isNullOrBlank()) {
+                Picasso.get()
+                    .load(R.drawable.markus_winkler_aid_xyrtlec_unsplash)
+                    .into(holder.image)
+            } else {
+                Picasso.get()
+                    .load(it.urlToImage)
+                    .into(holder.image)
+            }
 
             holder.setOnItemClickedListener(it, listener)
         }
