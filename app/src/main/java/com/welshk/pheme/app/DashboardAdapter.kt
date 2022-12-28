@@ -5,7 +5,9 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
+import androidx.appcompat.widget.AppCompatImageView
 import androidx.recyclerview.widget.RecyclerView
+import com.squareup.picasso.Picasso
 import com.welshk.pheme.R
 import com.welshk.pheme.model.Article
 
@@ -27,6 +29,11 @@ class DashboardAdapter(
         articles?.get(position)?.let {
             holder.title.text = it.title
             holder.author.text = it.author
+
+            Picasso.get()
+                .load(it.urlToImage)
+                .into(holder.image)
+
             holder.setOnItemClickedListener(it, listener)
         }
     }
@@ -34,6 +41,7 @@ class DashboardAdapter(
     class ViewHolder(context: Context, view: View) : RecyclerView.ViewHolder(view) {
         var title: TextView = view.findViewById(R.id.title)
         var author: TextView = view.findViewById(R.id.author)
+        var image: AppCompatImageView = view.findViewById(R.id.image)
 
         internal fun setOnItemClickedListener(
             article: Article,
