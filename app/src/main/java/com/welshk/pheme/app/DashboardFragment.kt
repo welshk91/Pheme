@@ -31,11 +31,7 @@ class DashboardFragment : Fragment() {
         ApplicationDataRepository.getTopHeadlines(
             "Apple", "us", null, null,
             {
-                Toast.makeText(
-                    context,
-                    "Found " + it.articles.size + " articles",
-                    Toast.LENGTH_SHORT
-                ).show()
+                binding.newsArticles.adapter = DashboardAdapter(requireContext(), it.articles)
             },
             {
                 Toast.makeText(context, "Found " + it.message + " articles", Toast.LENGTH_LONG)
