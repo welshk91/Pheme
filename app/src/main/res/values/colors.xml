@@ -6,6 +6,7 @@
 
     <color name="app_icon_background">#D4F6FF</color>
     <color name="progressbar">@color/app_icon_background</color>
+    <color name="dashboard_card_border">@color/app_icon_background</color>
 
     <color name="gradient_start">#00000000</color>
     <color name="gradient_start_middle">#80000000</color>

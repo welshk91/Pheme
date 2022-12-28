@@ -2,6 +2,7 @@
 <resources>
     <dimen name="dashboardArticleMarginTopBottom">18dp</dimen>
     <dimen name="dashboardArticleMarginSide">8dp</dimen>
+    <dimen name="dashboardArticleCardBorder">2dp</dimen>
 
     <dimen name="dashboardArticleMinHeight">200dp</dimen>
     <dimen name="dashboardArticleTitle">22sp</dimen>

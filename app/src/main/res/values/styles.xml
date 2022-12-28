@@ -12,15 +12,25 @@
         <item name="android:indeterminateTint">@color/progressbar</item>
     </style>
 
+    <style name="DashboardArticleCard" parent="Widget.MaterialComponents.CardView">
+        <item name="strokeWidth">@dimen/dashboardArticleCardBorder</item>
+        <item name="strokeColor">@color/dashboard_card_border</item>
+    </style>
+
     <style name="DashboardArticleTitle" parent="TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/dashboardArticleTitle</item>
         <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_marginStart">@dimen/dashboardArticleCardBorder</item>
+        <item name="android:layout_marginEnd">@dimen/dashboardArticleCardBorder</item>
     </style>
 
     <style name="DashboardArticleAuthor" parent="TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/dashboardArticleAuthor</item>
         <item name="fontFamily">sans-serif-thin</item>
         <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_marginStart">@dimen/dashboardArticleCardBorder</item>
+        <item name="android:layout_marginEnd">@dimen/dashboardArticleCardBorder</item>
+        <item name="android:layout_marginBottom">@dimen/dashboardArticleCardBorder</item>
     </style>
 
 </resources>
