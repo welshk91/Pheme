@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.appcompat.widget.AppCompatImageView
 import androidx.recyclerview.widget.RecyclerView
+import com.google.android.material.card.MaterialCardView
 import com.squareup.picasso.Picasso
 import com.welshk.pheme.R
 import com.welshk.pheme.model.Article
@@ -45,6 +46,7 @@ class DashboardAdapter(
     }
 
     class ViewHolder(context: Context, view: View) : RecyclerView.ViewHolder(view) {
+        var card: MaterialCardView = view.findViewById(R.id.card)
         var title: TextView = view.findViewById(R.id.title)
         var author: TextView = view.findViewById(R.id.author)
         var image: AppCompatImageView = view.findViewById(R.id.image)
@@ -53,7 +55,7 @@ class DashboardAdapter(
             article: Article,
             listener: (Article) -> Unit
         ) {
-            title.setOnClickListener {
+            card.setOnClickListener {
                 listener(article)
             }
         }
