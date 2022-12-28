@@ -1,23 +1,29 @@
 package com.welshk.pheme.networking
 
 import com.welshk.pheme.model.NewsResponse
-import retrofit2.Call
-import retrofit2.Callback
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
 import retrofit2.Response
+import javax.inject.Singleton
 
-object ApplicationDataRepository {
+@Singleton
+class ApplicationDataRepository {
 
-    fun getTopHeadlines(query: String?, country: String?, category: String?, page: String?, onComplete: (newsResponse : NewsResponse) -> Unit, onFail: (throwable : Throwable) -> Unit) {
-        NewsApiManager.getTopHeadlines(query, country, category, page).enqueue(object : Callback<NewsResponse> {
-            override fun onResponse(call: Call<NewsResponse>?, response: Response<NewsResponse>?) {
-                response?.body()?.let { onComplete(it) }
-            }
-
-            override fun onFailure(call: Call<NewsResponse>?, t: Throwable?) {
-                t?.let { onFail(it) }
-            }
-        })
+    suspend fun getTopHeadlines(
+        query: String?,
+        country: String? = null,
+        category: String? = null,
+        page: String? = "1"
+    ): Response<NewsResponse> = withContext(Dispatchers.IO) {
+        val retrofit = RetrofitClient.getInstance()
+        val apiInterface = retrofit.create(NewsApiService::class.java)
+        val response = apiInterface.getTopHeadlines(
+            query = query,
+            country = country,
+            category = category,
+            page = page
+        )
+        response
     }
-
 
 }
