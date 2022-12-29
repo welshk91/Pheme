@@ -22,6 +22,7 @@ It is _not_ intended to be a commercial product or even a consumer one. It will 
 
 ## Improvements
 * Add ability to open Chrome tab with rest of content (the API only has a snippet of the article)
+* Add animations/motions
 * Screenshots
 
 ## FAQ

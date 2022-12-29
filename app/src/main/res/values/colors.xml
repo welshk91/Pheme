@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#A23A3A</color>
+    <color name="colorPrimaryDark">#572020</color>
+    <color name="colorAccent">#8C1BD8</color>
 
     <color name="app_icon_background">#E95454</color>
-    <color name="progressbar">#D4F6FF</color>
-    <color name="dashboard_card_border">@color/progressbar</color>
-    <color name="details_divider">@color/progressbar</color>
+    <color name="progressbar">#E95454</color>
+    <color name="dashboard_card_border">#D4F6FF</color>
+    <color name="details_divider">@color/dashboard_card_border</color>
 
     <color name="gradient_start">#00000000</color>
     <color name="gradient_start_middle">#80000000</color>
