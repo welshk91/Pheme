@@ -4,7 +4,9 @@
 <p align="center">A news app that fetches articles
 
 ## Description
-An educational, open app that digest the [News API](https://newsapi.org/).
+An educational, open app that digest the [News API](https://newsapi.org/). 
+
+Written in Kotlin, this app uses the standard pillars of Android development: [Retrofit](https://square.github.io/retrofit/) for networking, [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) for Dependency Injection, [LiveData](https://developer.android.com/topic/libraries/architecture/livedata), [ViewModels](https://developer.android.com/topic/libraries/architecture/viewmodel), and [Databinding](https://developer.android.com/topic/libraries/data-binding) in an [MVVM](https://www.journaldev.com/20292/android-mvvm-design-pattern) pattern.
 
 ## What's "Pheme"?
 [Pheme](https://en.wikipedia.org/wiki/Pheme) is a Greek goddess often described as "she who initiates and furthers communication".
@@ -16,20 +18,10 @@ It is _not_ intended to be a commercial product or even a consumer one. It will 
 
 ## Sources
 * [News API](https://newsapi.org/)
-* [News API - Documentation](https://newsapi.org/docs)
-* [News API - Top Headlines](https://newsapi.org/docs/endpoints/top-headlines)
 * [Markus Winkler - Placeholder image](https://unsplash.com/@markuswinkler)
 
-## Third-Party Libraries Used
-* [Retrofit](https://square.github.io/retrofit/)
-* [GSON](https://github.com/google/gson)
-* [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
-* [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
-* [ViewModels](https://developer.android.com/topic/libraries/architecture/viewmodel)
-* [Picasso](https://square.github.io/picasso/)
-
 ## Improvements
-* Add ability to open Chrome tab with rest of content
+* Add ability to open Chrome tab with rest of content (the API only has a snippet of the article)
 * Screenshots
 
 ## FAQ
