@@ -6,6 +6,8 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:windowContentTransitions">true</item>
     </style>
 
     <style name="ProgressBar" parent="Widget.AppCompat.ProgressBar">
@@ -31,6 +33,36 @@
         <item name="android:layout_marginStart">@dimen/dashboardArticleCardBorder</item>
         <item name="android:layout_marginEnd">@dimen/dashboardArticleCardBorder</item>
         <item name="android:layout_marginBottom">@dimen/dashboardArticleCardBorder</item>
+    </style>
+
+    <style name="DetailsArticleTitle" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/detailsArticleTitle</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="DetailsArticleAuthor" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/detailsArticleAuthor</item>
+        <item name="fontFamily">sans-serif-thin</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="DetailsArticleDivider">
+        <item name="android:background">@color/details_divider</item>
+        <item name="android:layout_marginTop">@dimen/dashboardArticleDividerMargin</item>
+    </style>
+
+    <style name="DetailsArticleDescription" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/detailsArticleDescription</item>
+        <item name="fontFamily">sans-serif-light</item>
+        <item name="android:layout_marginTop">@dimen/dashboardArticleDividerMargin</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="DetailsArticleContent" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/detailsArticleContent</item>
+        <item name="fontFamily">sans-serif-light</item>
+        <item name="android:layout_marginTop">@dimen/dashboardArticleContentMargin</item>
+        <item name="android:includeFontPadding">false</item>
     </style>
 
 </resources>

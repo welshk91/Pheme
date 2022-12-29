@@ -2,9 +2,16 @@
 <resources>
     <dimen name="dashboardArticleMarginTopBottom">18dp</dimen>
     <dimen name="dashboardArticleMarginSide">8dp</dimen>
-    <dimen name="dashboardArticleCardBorder">2dp</dimen>
+    <dimen name="dashboardArticleCardBorder">1dp</dimen>
 
     <dimen name="dashboardArticleMinHeight">200dp</dimen>
     <dimen name="dashboardArticleTitle">22sp</dimen>
     <dimen name="dashboardArticleAuthor">14sp</dimen>
+
+    <dimen name="detailsArticleTitle">28sp</dimen>
+    <dimen name="detailsArticleAuthor">16sp</dimen>
+    <dimen name="dashboardArticleDividerMargin">12dp</dimen>
+    <dimen name="detailsArticleDescription">22sp</dimen>
+    <dimen name="detailsArticleContent">16sp</dimen>
+    <dimen name="dashboardArticleContentMargin">12dp</dimen>
 </resources>

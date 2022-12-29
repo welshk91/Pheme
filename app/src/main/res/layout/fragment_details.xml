@@ -9,6 +9,10 @@
         <variable
             name="article"
             type="com.welshk.pheme.model.Article" />
+
+        <variable
+            name="imagesModel"
+            type="com.welshk.pheme.utils.PicassoBindingAdaptersKt" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -16,13 +20,70 @@
         android:layout_height="match_parent"
         tools:context=".app.MainActivity">
 
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/image"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/title"
+            binding:articleUrl="@{article}"
+            tools:src="@drawable/markus_winkler_aid_xyrtlec_unsplash" />
+
         <TextView
             android:id="@+id/title"
-            android:layout_width="wrap_content"
+            style="@style/DetailsArticleTitle"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:text="@{article.title}"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/author"
             tools:text="Is the worst over for bitcoin and the rest of crypto?" />
+
+        <TextView
+            android:id="@+id/author"
+            style="@style/DetailsArticleAuthor"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@{article.author}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/title"
+            tools:text="Paul R. La Monica" />
+
+        <View
+            android:id="@+id/divider"
+            style="@style/DetailsArticleDivider"
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/author" />
+
+        <TextView
+            android:id="@+id/description"
+            style="@style/DetailsArticleDescription"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@{article.description}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/divider"
+            tools:text="The meltdown of FTX has sent the price of bitcoin and other cryptocurrencies tumbling more than 60% this year...and the carnage has spread to publicly traded companies with exposure to digital assets." />
+
+        <TextView
+            android:id="@+id/content"
+            style="@style/DetailsArticleContent"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@{article.content}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/description"
+            tools:text="A version of this story first appeared in CNN Business Before the Bell newsletter. Not a subscriber? You can sign up right here.\r\nThe meltdown of FTX has sent the price of bitcoin and other cryptocur… [+5753 chars]" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>
