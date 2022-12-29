@@ -26,11 +26,10 @@ It is _not_ intended to be a commercial product or even a consumer one. It will 
 * [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
 * [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 * [ViewModels](https://developer.android.com/topic/libraries/architecture/viewmodel)
+* [Picasso](https://square.github.io/picasso/)
 
 ## Improvements
-* Clean up Dashboard UI
-* Add Article Details Fragment
-* App Icon
+* Add ability to open Chrome tab with rest of content
 * Screenshots
 
 ## FAQ
