@@ -10,6 +10,7 @@ import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
 import com.welshk.pheme.R
 import com.welshk.pheme.databinding.FragmentDashboardBinding
+import com.welshk.pheme.model.Article
 import com.welshk.pheme.utils.Constants
 import com.welshk.pheme.views.ArticleItemDecoration
 import dagger.hilt.android.AndroidEntryPoint
@@ -25,21 +26,7 @@ class DashboardFragment : Fragment() {
         viewModel.news.observe(this) { news ->
             context?.let {
                 binding.progressbar.visibility = View.GONE
-                binding.newsArticles.addItemDecoration(
-                    ArticleItemDecoration(
-                        marginTopBottom = resources.getDimensionPixelSize(
-                            R.dimen.dashboardArticleMarginTopBottom
-                        ),
-                        marginSide = resources.getDimensionPixelSize(
-                            R.dimen.dashboardArticleMarginSide
-                        )
-                    )
-                )
-                binding.newsArticles.adapter = DashboardAdapter(requireContext(), news.articles){
-                    val bundle = Bundle()
-                    bundle.putParcelable(Constants.INTENT_KEY_ARTICLE, it)
-                    findNavController().navigate(R.id.action_dashboard_to_details, bundle)
-                }
+                setArticles(news.articles)
             }
         }
     }
@@ -52,6 +39,32 @@ class DashboardFragment : Fragment() {
         binding = DataBindingUtil.inflate(inflater, R.layout.fragment_dashboard, container, false)
         binding.viewModel = viewModel
         binding.lifecycleOwner = this
+
+        binding.newsArticles.addItemDecoration(
+            ArticleItemDecoration(
+                marginTopBottom = resources.getDimensionPixelSize(
+                    R.dimen.dashboardArticleMarginTopBottom
+                ),
+                marginSide = resources.getDimensionPixelSize(
+                    R.dimen.dashboardArticleMarginSide
+                )
+            )
+        )
         return binding.root
+    }
+
+    override fun onResume() {
+        super.onResume()
+        viewModel.news.value?.let {
+            setArticles(it.articles)
+        }
+    }
+
+    private fun setArticles(articles: ArrayList<Article>){
+        binding.newsArticles.adapter = DashboardAdapter(requireContext(), articles) {
+            val bundle = Bundle()
+            bundle.putParcelable(Constants.INTENT_KEY_ARTICLE, it)
+            findNavController().navigate(R.id.action_dashboard_to_details, bundle)
+        }
     }
 }
