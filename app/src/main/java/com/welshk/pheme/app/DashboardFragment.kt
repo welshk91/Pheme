@@ -7,8 +7,10 @@ import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
+import androidx.navigation.fragment.findNavController
 import com.welshk.pheme.R
 import com.welshk.pheme.databinding.FragmentDashboardBinding
+import com.welshk.pheme.utils.Constants
 import com.welshk.pheme.views.ArticleItemDecoration
 import dagger.hilt.android.AndroidEntryPoint
 
@@ -33,7 +35,11 @@ class DashboardFragment : Fragment() {
                         )
                     )
                 )
-                binding.newsArticles.adapter = DashboardAdapter(requireContext(), news.articles)
+                binding.newsArticles.adapter = DashboardAdapter(requireContext(), news.articles){
+                    val bundle = Bundle()
+                    bundle.putParcelable(Constants.INTENT_KEY_ARTICLE, it)
+                    findNavController().navigate(R.id.action_dashboard_to_details, bundle)
+                }
             }
         }
     }

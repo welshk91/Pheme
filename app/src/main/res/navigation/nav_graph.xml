@@ -10,6 +10,22 @@
         android:name="com.welshk.pheme.app.DashboardFragment"
         android:label="fragment_dashboard"
         tools:layout="@layout/fragment_dashboard">
+
+        <action
+            android:id="@+id/action_dashboard_to_details"
+            app:destination="@id/detailsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/detailsFragment"
+        android:name="com.welshk.pheme.app.DetailsFragment"
+        android:label="fragment_details"
+        tools:layout="@layout/fragment_details">
+
+        <argument
+            android:name="article"
+            android:defaultValue='@null'
+            app:argType="com.welshk.pheme.model.Article" />
     </fragment>
 
 </navigation>
