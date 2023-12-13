@@ -7,6 +7,12 @@
     <dimen name="dashboardArticleMinHeight">200dp</dimen>
     <dimen name="dashboardArticleTitle">22sp</dimen>
     <dimen name="dashboardArticleAuthor">14sp</dimen>
+    <dimen name="dashboardArticleTitleStart">14dp</dimen>
+    <dimen name="dashboardArticleTitleEnd">14dp</dimen>
+    <dimen name="dashboardArticleTitleBottom">6dp</dimen>
+    <dimen name="dashboardArticleAuthorStart">14dp</dimen>
+    <dimen name="dashboardArticleAuthorEnd">14dp</dimen>
+    <dimen name="dashboardArticleAuthorBottom">6dp</dimen>
 
     <dimen name="detailsArticleTitle">28sp</dimen>
     <dimen name="detailsArticleAuthor">16sp</dimen>
