@@ -25,8 +25,15 @@ class DashboardFragment : Fragment() {
         super.onCreate(savedInstanceState)
         viewModel.news.observe(this) { news ->
             context?.let {
-                binding.progressbar.visibility = View.GONE
                 setArticles(news.articles)
+            }
+        }
+
+        viewModel.newsLoading.observe(this) {
+            if (it) {
+                binding.progressbar.visibility = View.VISIBLE
+            } else {
+                binding.progressbar.visibility = View.INVISIBLE
             }
         }
     }
@@ -60,7 +67,7 @@ class DashboardFragment : Fragment() {
         }
     }
 
-    private fun setArticles(articles: ArrayList<Article>){
+    private fun setArticles(articles: ArrayList<Article>) {
         binding.newsArticles.adapter = DashboardAdapter(requireContext(), articles) {
             val bundle = Bundle()
             bundle.putParcelable(Constants.INTENT_KEY_ARTICLE, it)

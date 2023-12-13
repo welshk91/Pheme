@@ -18,19 +18,26 @@ class DashboardViewModel @Inject constructor(private val repository: Application
         get() = _news
     private val _news = MutableLiveData<NewsResponse>()
 
+    val newsLoading: LiveData<Boolean>
+        get() = _newsLoading
+    private val _newsLoading = MutableLiveData<Boolean>()
+
     init {
         fetchNews()
     }
 
-    fun fetchNews(){
+    fun fetchNews() {
+        _newsLoading.postValue(true)
         viewModelScope.launch {
             val response = repository.getEverything("ars-technica")
             if (response.isSuccessful) {
+                _newsLoading.postValue(false)
                 val details = response.body()
                 details?.let {
                     _news.postValue(it)
                 }
             } else {
+                _newsLoading.postValue(false)
                 //Handle error UI stuff here
             }
         }
