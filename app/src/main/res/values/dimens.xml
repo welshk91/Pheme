@@ -6,12 +6,10 @@
 
     <dimen name="dashboardArticleMinHeight">200dp</dimen>
     <dimen name="dashboardArticleTitle">22sp</dimen>
-    <dimen name="dashboardArticleAuthor">14sp</dimen>
-    <dimen name="dashboardArticleTitleStart">14dp</dimen>
-    <dimen name="dashboardArticleTitleEnd">14dp</dimen>
+    <dimen name="dashboardArticleAuthor">12dp</dimen>
+    <dimen name="dashboardArticleTitleStartEnd">12dp</dimen>
     <dimen name="dashboardArticleTitleBottom">6dp</dimen>
-    <dimen name="dashboardArticleAuthorStart">14dp</dimen>
-    <dimen name="dashboardArticleAuthorEnd">14dp</dimen>
+    <dimen name="dashboardArticleAuthorStartEnd">12dp</dimen>
     <dimen name="dashboardArticleAuthorBottom">6dp</dimen>
 
     <dimen name="detailsArticleTitle">28sp</dimen>
@@ -20,12 +18,4 @@
     <dimen name="detailsArticleDescription">22sp</dimen>
     <dimen name="detailsArticleContent">16sp</dimen>
     <dimen name="dashboardArticleContentMargin">12dp</dimen>
-    <dimen name="detailsArticleTitleStart">14dp</dimen>
-    <dimen name="detailsArticleTitleEnd">14dp</dimen>
-    <dimen name="detailsArticleAuthorStart">14dp</dimen>
-    <dimen name="detailsArticleAuthorEnd">14dp</dimen>
-    <dimen name="detailsArticleDescriptionStart">14dp</dimen>
-    <dimen name="detailsArticleDescriptionEnd">14dp</dimen>
-    <dimen name="detailsArticleContentStart">14dp</dimen>
-    <dimen name="detailsArticleContentEnd">14dp</dimen>
 </resources>
