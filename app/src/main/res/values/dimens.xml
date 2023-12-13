@@ -20,4 +20,12 @@
     <dimen name="detailsArticleDescription">22sp</dimen>
     <dimen name="detailsArticleContent">16sp</dimen>
     <dimen name="dashboardArticleContentMargin">12dp</dimen>
+    <dimen name="detailsArticleTitleStart">14dp</dimen>
+    <dimen name="detailsArticleTitleEnd">14dp</dimen>
+    <dimen name="detailsArticleAuthorStart">14dp</dimen>
+    <dimen name="detailsArticleAuthorEnd">14dp</dimen>
+    <dimen name="detailsArticleDescriptionStart">14dp</dimen>
+    <dimen name="detailsArticleDescriptionEnd">14dp</dimen>
+    <dimen name="detailsArticleContentStart">14dp</dimen>
+    <dimen name="detailsArticleContentEnd">14dp</dimen>
 </resources>
